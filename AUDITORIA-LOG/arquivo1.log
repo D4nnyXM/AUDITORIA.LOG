@@ -1,0 +1,1000 @@
+Feb 14 11:22:10 sistema sshd[28548]: Disconnected from 36.88.36.99 port 40526 [preauth]
+Feb 14 11:22:14 sistema sshd[28550]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=58.144.251.16  user=root
+Feb 14 11:22:16 sistema sshd[28550]: Failed password for root from 58.144.251.16 port 33374 ssh2
+Feb 14 11:22:16 sistema sshd[28550]: Received disconnect from 58.144.251.16 port 33374:11: Bye Bye [preauth]
+Feb 14 11:22:16 sistema sshd[28550]: Disconnected from 58.144.251.16 port 33374 [preauth]
+Feb 14 11:25:06 sistema sshd[28557]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:25:08 sistema sshd[28557]: Failed password for root from 36.88.36.99 port 41090 ssh2
+Feb 14 11:25:08 sistema sshd[28557]: Received disconnect from 36.88.36.99 port 41090:11: Bye Bye [preauth]
+Feb 14 11:25:08 sistema sshd[28557]: Disconnected from 36.88.36.99 port 41090 [preauth]
+Feb 14 11:27:34 sistema sshd[28559]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:27:36 sistema sshd[28559]: Failed password for root from 43.134.72.84 port 34186 ssh2
+Feb 14 11:27:36 sistema sshd[28559]: Received disconnect from 43.134.72.84 port 34186:11: Bye Bye [preauth]
+Feb 14 11:27:36 sistema sshd[28559]: Disconnected from 43.134.72.84 port 34186 [preauth]
+Feb 14 11:27:50 sistema sshd[28561]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:27:53 sistema sshd[28561]: Failed password for root from 36.88.36.99 port 35106 ssh2
+Feb 14 11:27:53 sistema sshd[28561]: Received disconnect from 36.88.36.99 port 35106:11: Bye Bye [preauth]
+Feb 14 11:27:53 sistema sshd[28561]: Disconnected from 36.88.36.99 port 35106 [preauth]
+Feb 14 11:28:02 sistema sshd[28563]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:28:03 sistema sshd[28563]: Failed password for root from 43.134.72.84 port 38114 ssh2
+Feb 14 11:28:04 sistema sshd[28563]: Received disconnect from 43.134.72.84 port 38114:11: Bye Bye [preauth]
+Feb 14 11:28:04 sistema sshd[28563]: Disconnected from 43.134.72.84 port 38114 [preauth]
+Feb 14 11:28:30 sistema sshd[28570]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:28:32 sistema sshd[28570]: Failed password for root from 43.134.72.84 port 42040 ssh2
+Feb 14 11:28:32 sistema sshd[28570]: Received disconnect from 43.134.72.84 port 42040:11: Bye Bye [preauth]
+Feb 14 11:28:32 sistema sshd[28570]: Disconnected from 43.134.72.84 port 42040 [preauth]
+Feb 14 11:28:39 sistema sshd[28577]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:28:41 sistema sshd[28577]: Failed password for root from 157.245.142.116 port 40912 ssh2
+Feb 14 11:28:41 sistema sshd[28577]: Received disconnect from 157.245.142.116 port 40912:11: Bye Bye [preauth]
+Feb 14 11:28:41 sistema sshd[28577]: Disconnected from 157.245.142.116 port 40912 [preauth]
+Feb 14 11:29:41 sistema sshd[28584]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:29:43 sistema sshd[28584]: Failed password for root from 157.245.142.116 port 33548 ssh2
+Feb 14 11:29:43 sistema sshd[28584]: Received disconnect from 157.245.142.116 port 33548:11: Bye Bye [preauth]
+Feb 14 11:29:43 sistema sshd[28584]: Disconnected from 157.245.142.116 port 33548 [preauth]
+Feb 14 11:29:47 sistema sshd[28591]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:29:49 sistema sshd[28591]: Failed password for root from 158.69.75.179 port 34338 ssh2
+Feb 14 11:29:49 sistema sshd[28591]: Received disconnect from 158.69.75.179 port 34338:11: Bye Bye [preauth]
+Feb 14 11:29:49 sistema sshd[28591]: Disconnected from 158.69.75.179 port 34338 [preauth]
+Feb 14 11:30:22 sistema sshd[28598]: Connection closed by 36.88.36.99 port 52470 [preauth]
+Feb 14 11:30:44 sistema sshd[28605]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:30:46 sistema sshd[28605]: Failed password for root from 138.68.135.146 port 39264 ssh2
+Feb 14 11:30:46 sistema sshd[28605]: Received disconnect from 138.68.135.146 port 39264:11: Bye Bye [preauth]
+Feb 14 11:30:46 sistema sshd[28605]: Disconnected from 138.68.135.146 port 39264 [preauth]
+Feb 14 11:30:50 sistema sshd[28607]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:30:52 sistema sshd[28607]: Failed password for root from 157.245.142.116 port 54410 ssh2
+Feb 14 11:30:52 sistema sshd[28607]: Received disconnect from 157.245.142.116 port 54410:11: Bye Bye [preauth]
+Feb 14 11:30:52 sistema sshd[28607]: Disconnected from 157.245.142.116 port 54410 [preauth]
+Feb 14 11:31:04 sistema sshd[28629]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:31:06 sistema sshd[28629]: Failed password for root from 158.69.75.179 port 56368 ssh2
+Feb 14 11:31:06 sistema sshd[28629]: Received disconnect from 158.69.75.179 port 56368:11: Bye Bye [preauth]
+Feb 14 11:31:06 sistema sshd[28629]: Disconnected from 158.69.75.179 port 56368 [preauth]
+Feb 14 11:31:30 sistema sshd[28631]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:31:32 sistema sshd[28631]: Failed password for root from 217.182.69.231 port 38136 ssh2
+Feb 14 11:31:32 sistema sshd[28631]: Received disconnect from 217.182.69.231 port 38136:11: Bye Bye [preauth]
+Feb 14 11:31:32 sistema sshd[28631]: Disconnected from 217.182.69.231 port 38136 [preauth]
+Feb 14 11:31:47 sistema sshd[28633]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:31:49 sistema sshd[28635]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:31:50 sistema sshd[28633]: Failed password for root from 64.227.126.250 port 53728 ssh2
+Feb 14 11:31:50 sistema sshd[28633]: Received disconnect from 64.227.126.250 port 53728:11: Bye Bye [preauth]
+Feb 14 11:31:50 sistema sshd[28633]: Disconnected from 64.227.126.250 port 53728 [preauth]
+Feb 14 11:31:50 sistema sshd[28637]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:31:51 sistema sshd[28635]: Failed password for root from 138.68.135.146 port 47096 ssh2
+Feb 14 11:31:51 sistema sshd[28635]: Received disconnect from 138.68.135.146 port 47096:11: Bye Bye [preauth]
+Feb 14 11:31:51 sistema sshd[28635]: Disconnected from 138.68.135.146 port 47096 [preauth]
+Feb 14 11:31:52 sistema sshd[28637]: Failed password for root from 145.239.90.141 port 44738 ssh2
+Feb 14 11:31:52 sistema sshd[28637]: Received disconnect from 145.239.90.141 port 44738:11: Bye Bye [preauth]
+Feb 14 11:31:52 sistema sshd[28637]: Disconnected from 145.239.90.141 port 44738 [preauth]
+Feb 14 11:32:14 sistema sshd[28641]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:32:16 sistema sshd[28641]: Failed password for root from 23.105.217.33 port 50280 ssh2
+Feb 14 11:32:16 sistema sshd[28641]: Received disconnect from 23.105.217.33 port 50280:11: Bye Bye [preauth]
+Feb 14 11:32:16 sistema sshd[28641]: Disconnected from 23.105.217.33 port 50280 [preauth]
+Feb 14 11:32:20 sistema sshd[28639]: Connection closed by 167.248.133.60 port 57364 [preauth]
+Feb 14 11:32:24 sistema sshd[28648]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:32:27 sistema sshd[28648]: Failed password for root from 158.69.75.179 port 50164 ssh2
+Feb 14 11:32:27 sistema sshd[28648]: Received disconnect from 158.69.75.179 port 50164:11: Bye Bye [preauth]
+Feb 14 11:32:27 sistema sshd[28648]: Disconnected from 158.69.75.179 port 50164 [preauth]
+Feb 14 11:32:52 sistema sshd[28655]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:32:53 sistema sshd[28657]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:32:54 sistema sshd[28655]: Failed password for root from 217.182.69.231 port 37816 ssh2
+Feb 14 11:32:54 sistema sshd[28655]: Received disconnect from 217.182.69.231 port 37816:11: Bye Bye [preauth]
+Feb 14 11:32:54 sistema sshd[28655]: Disconnected from 217.182.69.231 port 37816 [preauth]
+Feb 14 11:32:55 sistema sshd[28657]: Failed password for root from 138.68.135.146 port 33790 ssh2
+Feb 14 11:32:55 sistema sshd[28657]: Received disconnect from 138.68.135.146 port 33790:11: Bye Bye [preauth]
+Feb 14 11:32:55 sistema sshd[28657]: Disconnected from 138.68.135.146 port 33790 [preauth]
+Feb 14 11:33:01 sistema sshd[28664]: Connection closed by 36.88.36.99 port 57486 [preauth]
+Feb 14 11:33:05 sistema sshd[28666]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:33:07 sistema sshd[28666]: Failed password for root from 64.227.126.250 port 53332 ssh2
+Feb 14 11:33:07 sistema sshd[28666]: Received disconnect from 64.227.126.250 port 53332:11: Bye Bye [preauth]
+Feb 14 11:33:07 sistema sshd[28666]: Disconnected from 64.227.126.250 port 53332 [preauth]
+Feb 14 11:33:50 sistema sshd[28668]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:33:51 sistema sshd[28668]: Failed password for root from 145.239.90.141 port 44890 ssh2
+Feb 14 11:33:51 sistema sshd[28668]: Received disconnect from 145.239.90.141 port 44890:11: Bye Bye [preauth]
+Feb 14 11:33:51 sistema sshd[28668]: Disconnected from 145.239.90.141 port 44890 [preauth]
+Feb 14 11:34:13 sistema sshd[28670]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:34:15 sistema sshd[28670]: Failed password for root from 217.182.69.231 port 37494 ssh2
+Feb 14 11:34:22 sistema sshd[28677]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:34:24 sistema sshd[28677]: Failed password for root from 23.105.217.33 port 54690 ssh2
+Feb 14 11:34:24 sistema sshd[28677]: Received disconnect from 23.105.217.33 port 54690:11: Bye Bye [preauth]
+Feb 14 11:34:24 sistema sshd[28677]: Disconnected from 23.105.217.33 port 54690 [preauth]
+Feb 14 11:34:24 sistema sshd[28679]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:34:26 sistema sshd[28679]: Failed password for root from 64.227.126.250 port 52940 ssh2
+Feb 14 11:35:33 sistema sshd[28686]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:35:34 sistema sshd[28686]: Failed password for root from 36.88.36.99 port 40960 ssh2
+Feb 14 11:35:34 sistema sshd[28686]: Received disconnect from 36.88.36.99 port 40960:11: Bye Bye [preauth]
+Feb 14 11:35:34 sistema sshd[28686]: Disconnected from 36.88.36.99 port 40960 [preauth]
+Feb 14 11:35:48 sistema sshd[28688]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:35:50 sistema sshd[28688]: Failed password for root from 145.239.90.141 port 45042 ssh2
+Feb 14 11:35:50 sistema sshd[28688]: Received disconnect from 145.239.90.141 port 45042:11: Bye Bye [preauth]
+Feb 14 11:35:50 sistema sshd[28688]: Disconnected from 145.239.90.141 port 45042 [preauth]
+Feb 14 11:36:26 sistema sshd[28695]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:36:27 sistema sshd[28695]: Failed password for root from 23.105.217.33 port 59122 ssh2
+Feb 14 11:36:28 sistema sshd[28695]: Received disconnect from 23.105.217.33 port 59122:11: Bye Bye [preauth]
+Feb 14 11:36:28 sistema sshd[28695]: Disconnected from 23.105.217.33 port 59122 [preauth]
+Feb 14 11:38:26 sistema sshd[28702]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:38:28 sistema sshd[28702]: Failed password for root from 36.88.36.99 port 48076 ssh2
+Feb 14 11:38:28 sistema sshd[28702]: Received disconnect from 36.88.36.99 port 48076:11: Bye Bye [preauth]
+Feb 14 11:38:28 sistema sshd[28702]: Disconnected from 36.88.36.99 port 48076 [preauth]
+Feb 14 11:39:01 sistema CRON[28709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 11:39:01 sistema CRON[28709]: pam_unix(cron:session): session closed for user root
+Feb 14 11:39:06 sistema sshd[28766]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:39:08 sistema sshd[28766]: Failed password for root from 43.134.72.84 port 51562 ssh2
+Feb 14 11:39:09 sistema sshd[28766]: Received disconnect from 43.134.72.84 port 51562:11: Bye Bye [preauth]
+Feb 14 11:39:09 sistema sshd[28766]: Disconnected from 43.134.72.84 port 51562 [preauth]
+Feb 14 11:39:32 sistema sshd[28768]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:39:34 sistema sshd[28768]: Failed password for root from 43.134.72.84 port 55488 ssh2
+Feb 14 11:39:34 sistema sshd[28768]: Received disconnect from 43.134.72.84 port 55488:11: Bye Bye [preauth]
+Feb 14 11:39:34 sistema sshd[28768]: Disconnected from 43.134.72.84 port 55488 [preauth]
+Feb 14 11:39:55 sistema sshd[28770]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.134.72.84  user=root
+Feb 14 11:39:57 sistema sshd[28770]: Failed password for root from 43.134.72.84 port 59414 ssh2
+Feb 14 11:39:58 sistema sshd[28770]: Received disconnect from 43.134.72.84 port 59414:11: Bye Bye [preauth]
+Feb 14 11:39:58 sistema sshd[28770]: Disconnected from 43.134.72.84 port 59414 [preauth]
+Feb 14 11:41:22 sistema sshd[28782]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:41:23 sistema sshd[28782]: Failed password for root from 36.88.36.99 port 39520 ssh2
+Feb 14 11:41:24 sistema sshd[28782]: Received disconnect from 36.88.36.99 port 39520:11: Bye Bye [preauth]
+Feb 14 11:41:24 sistema sshd[28782]: Disconnected from 36.88.36.99 port 39520 [preauth]
+Feb 14 11:41:37 sistema sshd[28789]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:41:37 sistema sshd[28791]: Invalid user apache from 62.233.50.8 port 46262
+Feb 14 11:41:37 sistema sshd[28791]: input_userauth_request: invalid user apache [preauth]
+Feb 14 11:41:37 sistema sshd[28791]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 11:41:37 sistema sshd[28791]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 11:41:38 sistema sshd[28789]: Failed password for root from 157.245.142.116 port 37166 ssh2
+Feb 14 11:41:38 sistema sshd[28789]: Received disconnect from 157.245.142.116 port 37166:11: Bye Bye [preauth]
+Feb 14 11:41:38 sistema sshd[28789]: Disconnected from 157.245.142.116 port 37166 [preauth]
+Feb 14 11:41:39 sistema sshd[28791]: Failed password for invalid user apache from 62.233.50.8 port 46262 ssh2
+Feb 14 11:41:39 sistema sshd[28791]: Received disconnect from 62.233.50.8 port 46262:11: Client disconnecting normally [preauth]
+Feb 14 11:41:39 sistema sshd[28791]: Disconnected from 62.233.50.8 port 46262 [preauth]
+Feb 14 11:42:38 sistema sshd[28798]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:42:39 sistema sshd[28800]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:42:41 sistema sshd[28798]: Failed password for root from 158.69.75.179 port 56994 ssh2
+Feb 14 11:42:41 sistema sshd[28798]: Received disconnect from 158.69.75.179 port 56994:11: Bye Bye [preauth]
+Feb 14 11:42:41 sistema sshd[28798]: Disconnected from 158.69.75.179 port 56994 [preauth]
+Feb 14 11:42:41 sistema sshd[28800]: Failed password for root from 157.245.142.116 port 58032 ssh2
+Feb 14 11:42:41 sistema sshd[28800]: Received disconnect from 157.245.142.116 port 58032:11: Bye Bye [preauth]
+Feb 14 11:42:41 sistema sshd[28800]: Disconnected from 157.245.142.116 port 58032 [preauth]
+Feb 14 11:43:40 sistema sshd[28807]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:43:42 sistema sshd[28809]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=157.245.142.116  user=root
+Feb 14 11:43:42 sistema sshd[28807]: Failed password for root from 138.68.135.146 port 44868 ssh2
+Feb 14 11:43:42 sistema sshd[28807]: Received disconnect from 138.68.135.146 port 44868:11: Bye Bye [preauth]
+Feb 14 11:43:42 sistema sshd[28807]: Disconnected from 138.68.135.146 port 44868 [preauth]
+Feb 14 11:43:44 sistema sshd[28809]: Failed password for root from 157.245.142.116 port 50682 ssh2
+Feb 14 11:43:44 sistema sshd[28809]: Received disconnect from 157.245.142.116 port 50682:11: Bye Bye [preauth]
+Feb 14 11:43:44 sistema sshd[28809]: Disconnected from 157.245.142.116 port 50682 [preauth]
+Feb 14 11:43:57 sistema sshd[28816]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:43:58 sistema sshd[28816]: Failed password for root from 158.69.75.179 port 50794 ssh2
+Feb 14 11:43:58 sistema sshd[28816]: Received disconnect from 158.69.75.179 port 50794:11: Bye Bye [preauth]
+Feb 14 11:43:58 sistema sshd[28816]: Disconnected from 158.69.75.179 port 50794 [preauth]
+Feb 14 11:44:34 sistema sshd[28828]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:44:36 sistema sshd[28828]: Failed password for root from 64.227.126.250 port 49756 ssh2
+Feb 14 11:44:36 sistema sshd[28828]: Received disconnect from 64.227.126.250 port 49756:11: Bye Bye [preauth]
+Feb 14 11:44:36 sistema sshd[28828]: Disconnected from 64.227.126.250 port 49756 [preauth]
+Feb 14 11:44:45 sistema sshd[28830]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:44:47 sistema sshd[28830]: Failed password for root from 138.68.135.146 port 35938 ssh2
+Feb 14 11:44:47 sistema sshd[28830]: Received disconnect from 138.68.135.146 port 35938:11: Bye Bye [preauth]
+Feb 14 11:44:47 sistema sshd[28830]: Disconnected from 138.68.135.146 port 35938 [preauth]
+Feb 14 11:44:53 sistema sshd[28832]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:44:55 sistema sshd[28832]: Failed password for root from 217.182.69.231 port 35016 ssh2
+Feb 14 11:44:56 sistema sshd[28832]: Received disconnect from 217.182.69.231 port 35016:11: Bye Bye [preauth]
+Feb 14 11:44:56 sistema sshd[28832]: Disconnected from 217.182.69.231 port 35016 [preauth]
+Feb 14 11:45:17 sistema sshd[28834]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=158.69.75.179  user=root
+Feb 14 11:45:19 sistema sshd[28834]: Failed password for root from 158.69.75.179 port 44590 ssh2
+Feb 14 11:45:19 sistema sshd[28834]: Received disconnect from 158.69.75.179 port 44590:11: Bye Bye [preauth]
+Feb 14 11:45:19 sistema sshd[28834]: Disconnected from 158.69.75.179 port 44590 [preauth]
+Feb 14 11:45:46 sistema sshd[28841]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=138.68.135.146  user=root
+Feb 14 11:45:48 sistema sshd[28841]: Failed password for root from 138.68.135.146 port 53658 ssh2
+Feb 14 11:45:55 sistema sshd[28853]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:45:57 sistema sshd[28853]: Failed password for root from 145.239.90.141 port 45812 ssh2
+Feb 14 11:45:57 sistema sshd[28853]: Received disconnect from 145.239.90.141 port 45812:11: Bye Bye [preauth]
+Feb 14 11:45:57 sistema sshd[28853]: Disconnected from 145.239.90.141 port 45812 [preauth]
+Feb 14 11:45:59 sistema sshd[28855]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:46:01 sistema sshd[28855]: Failed password for root from 64.227.126.250 port 49370 ssh2
+Feb 14 11:46:01 sistema sshd[28855]: Received disconnect from 64.227.126.250 port 49370:11: Bye Bye [preauth]
+Feb 14 11:46:01 sistema sshd[28855]: Disconnected from 64.227.126.250 port 49370 [preauth]
+Feb 14 11:46:13 sistema sshd[28857]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:46:15 sistema sshd[28857]: Failed password for root from 217.182.69.231 port 34700 ssh2
+Feb 14 11:46:15 sistema sshd[28857]: Received disconnect from 217.182.69.231 port 34700:11: Bye Bye [preauth]
+Feb 14 11:46:15 sistema sshd[28857]: Disconnected from 217.182.69.231 port 34700 [preauth]
+Feb 14 11:47:04 sistema sshd[28864]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:47:06 sistema sshd[28864]: Failed password for root from 23.105.217.33 port 53244 ssh2
+Feb 14 11:47:06 sistema sshd[28864]: Received disconnect from 23.105.217.33 port 53244:11: Bye Bye [preauth]
+Feb 14 11:47:06 sistema sshd[28864]: Disconnected from 23.105.217.33 port 53244 [preauth]
+Feb 14 11:47:18 sistema sshd[28866]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=64.227.126.250  user=root
+Feb 14 11:47:20 sistema sshd[28866]: Failed password for root from 64.227.126.250 port 48982 ssh2
+Feb 14 11:47:20 sistema sshd[28866]: Received disconnect from 64.227.126.250 port 48982:11: Bye Bye [preauth]
+Feb 14 11:47:20 sistema sshd[28866]: Disconnected from 64.227.126.250 port 48982 [preauth]
+Feb 14 11:47:30 sistema sshd[28873]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=217.182.69.231  user=root
+Feb 14 11:47:32 sistema sshd[28873]: Failed password for root from 217.182.69.231 port 34386 ssh2
+Feb 14 11:47:32 sistema sshd[28873]: Received disconnect from 217.182.69.231 port 34386:11: Bye Bye [preauth]
+Feb 14 11:47:32 sistema sshd[28873]: Disconnected from 217.182.69.231 port 34386 [preauth]
+Feb 14 11:47:55 sistema sshd[28880]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:47:57 sistema sshd[28880]: Failed password for root from 145.239.90.141 port 45964 ssh2
+Feb 14 11:47:57 sistema sshd[28880]: Received disconnect from 145.239.90.141 port 45964:11: Bye Bye [preauth]
+Feb 14 11:47:57 sistema sshd[28880]: Disconnected from 145.239.90.141 port 45964 [preauth]
+Feb 14 11:49:13 sistema sshd[28882]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:49:15 sistema sshd[28882]: Failed password for root from 23.105.217.33 port 57680 ssh2
+Feb 14 11:49:15 sistema sshd[28882]: Received disconnect from 23.105.217.33 port 57680:11: Bye Bye [preauth]
+Feb 14 11:49:15 sistema sshd[28882]: Disconnected from 23.105.217.33 port 57680 [preauth]
+Feb 14 11:49:56 sistema sshd[28884]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 11:49:58 sistema sshd[28884]: Failed password for root from 145.239.90.141 port 46116 ssh2
+Feb 14 11:49:58 sistema sshd[28884]: Received disconnect from 145.239.90.141 port 46116:11: Bye Bye [preauth]
+Feb 14 11:49:58 sistema sshd[28884]: Disconnected from 145.239.90.141 port 46116 [preauth]
+Feb 14 11:51:24 sistema sshd[28896]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 11:51:26 sistema sshd[28896]: Failed password for root from 23.105.217.33 port 34166 ssh2
+Feb 14 11:51:26 sistema sshd[28896]: Received disconnect from 23.105.217.33 port 34166:11: Bye Bye [preauth]
+Feb 14 11:51:26 sistema sshd[28896]: Disconnected from 23.105.217.33 port 34166 [preauth]
+Feb 14 11:51:57 sistema sshd[28908]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:51:59 sistema sshd[28908]: Failed password for root from 36.88.36.99 port 36686 ssh2
+Feb 14 11:51:59 sistema sshd[28908]: Received disconnect from 36.88.36.99 port 36686:11: Bye Bye [preauth]
+Feb 14 11:51:59 sistema sshd[28908]: Disconnected from 36.88.36.99 port 36686 [preauth]
+Feb 14 11:54:21 sistema sshd[28915]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:54:23 sistema sshd[28915]: Failed password for root from 36.88.36.99 port 43422 ssh2
+Feb 14 11:54:23 sistema sshd[28915]: Received disconnect from 36.88.36.99 port 43422:11: Bye Bye [preauth]
+Feb 14 11:54:23 sistema sshd[28915]: Disconnected from 36.88.36.99 port 43422 [preauth]
+Feb 14 11:56:54 sistema sshd[28927]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 11:56:57 sistema sshd[28927]: Failed password for root from 36.88.36.99 port 36732 ssh2
+Feb 14 11:56:57 sistema sshd[28927]: Received disconnect from 36.88.36.99 port 36732:11: Bye Bye [preauth]
+Feb 14 11:56:57 sistema sshd[28927]: Disconnected from 36.88.36.99 port 36732 [preauth]
+Feb 14 12:00:01 sistema CRON[28950]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 12:00:01 sistema CRON[28950]: pam_unix(cron:session): session closed for user root
+Feb 14 12:01:46 sistema sshd[28958]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 12:01:48 sistema sshd[28958]: Failed password for root from 145.239.90.141 port 47038 ssh2
+Feb 14 12:01:48 sistema sshd[28958]: Received disconnect from 145.239.90.141 port 47038:11: Bye Bye [preauth]
+Feb 14 12:01:48 sistema sshd[28958]: Disconnected from 145.239.90.141 port 47038 [preauth]
+Feb 14 12:01:50 sistema sshd[28960]: Invalid user admin from 62.233.50.8 port 47505
+Feb 14 12:01:50 sistema sshd[28960]: input_userauth_request: invalid user admin [preauth]
+Feb 14 12:01:50 sistema sshd[28960]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 12:01:50 sistema sshd[28960]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 12:01:51 sistema sshd[28960]: Failed password for invalid user admin from 62.233.50.8 port 47505 ssh2
+Feb 14 12:01:52 sistema sshd[28960]: Received disconnect from 62.233.50.8 port 47505:11: Client disconnecting normally [preauth]
+Feb 14 12:01:52 sistema sshd[28960]: Disconnected from 62.233.50.8 port 47505 [preauth]
+Feb 14 12:01:59 sistema sshd[28962]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 12:02:01 sistema sshd[28962]: Failed password for root from 23.105.217.33 port 56248 ssh2
+Feb 14 12:02:01 sistema sshd[28962]: Received disconnect from 23.105.217.33 port 56248:11: Bye Bye [preauth]
+Feb 14 12:02:01 sistema sshd[28962]: Disconnected from 23.105.217.33 port 56248 [preauth]
+Feb 14 12:03:48 sistema sshd[28964]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 12:03:50 sistema sshd[28964]: Failed password for root from 145.239.90.141 port 47192 ssh2
+Feb 14 12:03:50 sistema sshd[28964]: Received disconnect from 145.239.90.141 port 47192:11: Bye Bye [preauth]
+Feb 14 12:03:50 sistema sshd[28964]: Disconnected from 145.239.90.141 port 47192 [preauth]
+Feb 14 12:04:09 sistema sshd[28966]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 12:04:12 sistema sshd[28966]: Failed password for root from 23.105.217.33 port 60818 ssh2
+Feb 14 12:04:12 sistema sshd[28966]: Received disconnect from 23.105.217.33 port 60818:11: Bye Bye [preauth]
+Feb 14 12:04:12 sistema sshd[28966]: Disconnected from 23.105.217.33 port 60818 [preauth]
+Feb 14 12:05:46 sistema sshd[28968]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=145.239.90.141  user=root
+Feb 14 12:05:47 sistema sshd[28968]: Failed password for root from 145.239.90.141 port 47342 ssh2
+Feb 14 12:05:47 sistema sshd[28968]: Received disconnect from 145.239.90.141 port 47342:11: Bye Bye [preauth]
+Feb 14 12:05:47 sistema sshd[28968]: Disconnected from 145.239.90.141 port 47342 [preauth]
+Feb 14 12:06:16 sistema sshd[28976]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 12:06:18 sistema sshd[28976]: Failed password for root from 23.105.217.33 port 36500 ssh2
+Feb 14 12:06:18 sistema sshd[28976]: Received disconnect from 23.105.217.33 port 36500:11: Bye Bye [preauth]
+Feb 14 12:06:18 sistema sshd[28976]: Disconnected from 23.105.217.33 port 36500 [preauth]
+Feb 14 12:08:07 sistema sshd[28988]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:08:08 sistema sshd[28988]: Failed password for root from 36.88.36.99 port 40070 ssh2
+Feb 14 12:08:09 sistema sshd[28988]: Received disconnect from 36.88.36.99 port 40070:11: Bye Bye [preauth]
+Feb 14 12:08:09 sistema sshd[28988]: Disconnected from 36.88.36.99 port 40070 [preauth]
+Feb 14 12:09:01 sistema CRON[28991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 12:09:01 sistema CRON[28991]: pam_unix(cron:session): session closed for user root
+Feb 14 12:10:57 sistema sshd[29055]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:10:59 sistema sshd[29055]: Failed password for root from 36.88.36.99 port 52390 ssh2
+Feb 14 12:10:59 sistema sshd[29055]: Received disconnect from 36.88.36.99 port 52390:11: Bye Bye [preauth]
+Feb 14 12:10:59 sistema sshd[29055]: Disconnected from 36.88.36.99 port 52390 [preauth]
+Feb 14 12:13:31 sistema sshd[29057]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:13:33 sistema sshd[29057]: Failed password for root from 36.88.36.99 port 40536 ssh2
+Feb 14 12:15:47 sistema sshd[29066]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.111.137.166  user=root
+Feb 14 12:15:49 sistema sshd[29066]: Failed password for root from 103.111.137.166 port 34562 ssh2
+Feb 14 12:15:49 sistema sshd[29066]: Received disconnect from 103.111.137.166 port 34562:11: Bye Bye [preauth]
+Feb 14 12:15:49 sistema sshd[29066]: Disconnected from 103.111.137.166 port 34562 [preauth]
+Feb 14 12:16:46 sistema sshd[29078]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=23.105.217.33  user=root
+Feb 14 12:16:48 sistema sshd[29078]: Failed password for root from 23.105.217.33 port 58930 ssh2
+Feb 14 12:16:48 sistema sshd[29078]: Received disconnect from 23.105.217.33 port 58930:11: Bye Bye [preauth]
+Feb 14 12:16:48 sistema sshd[29078]: Disconnected from 23.105.217.33 port 58930 [preauth]
+Feb 14 12:17:01 sistema CRON[29080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 12:17:01 sistema CRON[29080]: pam_unix(cron:session): session closed for user root
+Feb 14 12:21:53 sistema sshd[29090]: Invalid user vodafone from 62.233.50.8 port 48688
+Feb 14 12:21:53 sistema sshd[29090]: input_userauth_request: invalid user vodafone [preauth]
+Feb 14 12:21:53 sistema sshd[29090]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 12:21:53 sistema sshd[29090]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 12:21:55 sistema sshd[29090]: Failed password for invalid user vodafone from 62.233.50.8 port 48688 ssh2
+Feb 14 12:21:55 sistema sshd[29090]: Received disconnect from 62.233.50.8 port 48688:11: Client disconnecting normally [preauth]
+Feb 14 12:21:55 sistema sshd[29090]: Disconnected from 62.233.50.8 port 48688 [preauth]
+Feb 14 12:24:16 sistema sshd[29106]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:24:18 sistema sshd[29106]: Failed password for root from 36.88.36.99 port 33146 ssh2
+Feb 14 12:24:18 sistema sshd[29106]: Received disconnect from 36.88.36.99 port 33146:11: Bye Bye [preauth]
+Feb 14 12:24:18 sistema sshd[29106]: Disconnected from 36.88.36.99 port 33146 [preauth]
+Feb 14 12:27:06 sistema sshd[29111]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:27:08 sistema sshd[29111]: Failed password for root from 36.88.36.99 port 44060 ssh2
+Feb 14 12:27:10 sistema sshd[29111]: Connection reset by 36.88.36.99 port 44060 [preauth]
+Feb 14 12:29:46 sistema sshd[29117]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.88.36.99  user=root
+Feb 14 12:29:48 sistema sshd[29117]: Failed password for root from 36.88.36.99 port 52972 ssh2
+Feb 14 12:29:48 sistema sshd[29117]: Received disconnect from 36.88.36.99 port 52972:11: Bye Bye [preauth]
+Feb 14 12:29:48 sistema sshd[29117]: Disconnected from 36.88.36.99 port 52972 [preauth]
+Feb 14 12:39:01 sistema CRON[29131]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 12:39:01 sistema CRON[29131]: pam_unix(cron:session): session closed for user root
+Feb 14 12:41:49 sistema sshd[29196]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8  user=root
+Feb 14 12:41:51 sistema sshd[29196]: Failed password for root from 62.233.50.8 port 49592 ssh2
+Feb 14 12:41:51 sistema sshd[29196]: Received disconnect from 62.233.50.8 port 49592:11: Client disconnecting normally [preauth]
+Feb 14 12:41:51 sistema sshd[29196]: Disconnected from 62.233.50.8 port 49592 [preauth]
+Feb 14 13:00:49 sistema sshd[29204]: Invalid user admin from 62.233.50.8 port 45591
+Feb 14 13:00:49 sistema sshd[29204]: input_userauth_request: invalid user admin [preauth]
+Feb 14 13:00:49 sistema sshd[29204]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 13:00:49 sistema sshd[29204]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 13:00:51 sistema sshd[29204]: Failed password for invalid user admin from 62.233.50.8 port 45591 ssh2
+Feb 14 13:00:51 sistema sshd[29204]: Received disconnect from 62.233.50.8 port 45591:11: Client disconnecting normally [preauth]
+Feb 14 13:00:51 sistema sshd[29204]: Disconnected from 62.233.50.8 port 45591 [preauth]
+Feb 14 13:09:01 sistema CRON[29206]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 13:09:01 sistema CRON[29206]: pam_unix(cron:session): session closed for user root
+Feb 14 13:17:01 sistema CRON[29267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 13:17:01 sistema CRON[29267]: pam_unix(cron:session): session closed for user root
+Feb 14 13:20:50 sistema sshd[29274]: Invalid user ftpuser from 62.233.50.8 port 46603
+Feb 14 13:20:50 sistema sshd[29274]: input_userauth_request: invalid user ftpuser [preauth]
+Feb 14 13:20:50 sistema sshd[29274]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 13:20:50 sistema sshd[29274]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 13:20:52 sistema sshd[29274]: Failed password for invalid user ftpuser from 62.233.50.8 port 46603 ssh2
+Feb 14 13:20:52 sistema sshd[29274]: Received disconnect from 62.233.50.8 port 46603:11: Client disconnecting normally [preauth]
+Feb 14 13:20:52 sistema sshd[29274]: Disconnected from 62.233.50.8 port 46603 [preauth]
+Feb 14 13:39:01 sistema CRON[29296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 13:39:01 sistema CRON[29296]: pam_unix(cron:session): session closed for user root
+Feb 14 13:39:38 sistema sshd[29354]: Invalid user sconsole from 62.233.50.8 port 42957
+Feb 14 13:39:38 sistema sshd[29354]: input_userauth_request: invalid user sconsole [preauth]
+Feb 14 13:39:38 sistema sshd[29354]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 13:39:38 sistema sshd[29354]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 13:39:40 sistema sshd[29354]: Failed password for invalid user sconsole from 62.233.50.8 port 42957 ssh2
+Feb 14 13:39:40 sistema sshd[29354]: Received disconnect from 62.233.50.8 port 42957:11: Client disconnecting normally [preauth]
+Feb 14 13:39:40 sistema sshd[29354]: Disconnected from 62.233.50.8 port 42957 [preauth]
+Feb 14 13:58:05 sistema sshd[29356]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 13:58:07 sistema sshd[29356]: Failed password for root from 66.70.208.241 port 48878 ssh2
+Feb 14 13:58:07 sistema sshd[29356]: Received disconnect from 66.70.208.241 port 48878:11: Bye Bye [preauth]
+Feb 14 13:58:07 sistema sshd[29356]: Disconnected from 66.70.208.241 port 48878 [preauth]
+Feb 14 13:58:08 sistema sshd[29358]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 13:58:10 sistema sshd[29358]: Failed password for root from 185.237.15.141 port 30524 ssh2
+Feb 14 13:58:10 sistema sshd[29358]: Received disconnect from 185.237.15.141 port 30524:11: Bye Bye [preauth]
+Feb 14 13:58:10 sistema sshd[29358]: Disconnected from 185.237.15.141 port 30524 [preauth]
+Feb 14 13:58:44 sistema sshd[29360]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 13:58:45 sistema sshd[29360]: Failed password for root from 46.101.123.135 port 48346 ssh2
+Feb 14 13:58:46 sistema sshd[29360]: Received disconnect from 46.101.123.135 port 48346:11: Bye Bye [preauth]
+Feb 14 13:58:46 sistema sshd[29360]: Disconnected from 46.101.123.135 port 48346 [preauth]
+Feb 14 13:59:18 sistema sshd[29362]: Invalid user install from 62.233.50.8 port 43662
+Feb 14 13:59:18 sistema sshd[29362]: input_userauth_request: invalid user install [preauth]
+Feb 14 13:59:18 sistema sshd[29362]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 13:59:18 sistema sshd[29362]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 13:59:20 sistema sshd[29364]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 13:59:20 sistema sshd[29362]: Failed password for invalid user install from 62.233.50.8 port 43662 ssh2
+Feb 14 13:59:20 sistema sshd[29362]: Received disconnect from 62.233.50.8 port 43662:11: Client disconnecting normally [preauth]
+Feb 14 13:59:20 sistema sshd[29362]: Disconnected from 62.233.50.8 port 43662 [preauth]
+Feb 14 13:59:22 sistema sshd[29364]: Failed password for root from 197.5.145.81 port 32417 ssh2
+Feb 14 13:59:22 sistema sshd[29364]: Received disconnect from 197.5.145.81 port 32417:11: Bye Bye [preauth]
+Feb 14 13:59:22 sistema sshd[29364]: Disconnected from 197.5.145.81 port 32417 [preauth]
+Feb 14 14:00:27 sistema sshd[29367]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:00:30 sistema sshd[29367]: Failed password for root from 188.166.14.99 port 52082 ssh2
+Feb 14 14:00:30 sistema sshd[29367]: Received disconnect from 188.166.14.99 port 52082:11: Bye Bye [preauth]
+Feb 14 14:00:30 sistema sshd[29367]: Disconnected from 188.166.14.99 port 52082 [preauth]
+Feb 14 14:00:31 sistema sshd[29369]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:00:33 sistema sshd[29369]: Failed password for root from 92.222.10.235 port 59432 ssh2
+Feb 14 14:00:34 sistema sshd[29369]: Received disconnect from 92.222.10.235 port 59432:11: Bye Bye [preauth]
+Feb 14 14:00:34 sistema sshd[29369]: Disconnected from 92.222.10.235 port 59432 [preauth]
+Feb 14 14:01:01 sistema sshd[29371]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:01:04 sistema sshd[29371]: Failed password for root from 46.101.123.135 port 52922 ssh2
+Feb 14 14:01:04 sistema sshd[29371]: Received disconnect from 46.101.123.135 port 52922:11: Bye Bye [preauth]
+Feb 14 14:01:04 sistema sshd[29371]: Disconnected from 46.101.123.135 port 52922 [preauth]
+Feb 14 14:01:11 sistema sshd[29373]: Invalid user prueba from 203.128.242.166 port 60165
+Feb 14 14:01:11 sistema sshd[29373]: input_userauth_request: invalid user prueba [preauth]
+Feb 14 14:01:11 sistema sshd[29373]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:01:11 sistema sshd[29373]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:01:12 sistema sshd[29373]: Failed password for invalid user prueba from 203.128.242.166 port 60165 ssh2
+Feb 14 14:01:13 sistema sshd[29373]: Received disconnect from 203.128.242.166 port 60165:11: Bye Bye [preauth]
+Feb 14 14:01:13 sistema sshd[29373]: Disconnected from 203.128.242.166 port 60165 [preauth]
+Feb 14 14:01:27 sistema sshd[29375]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:01:28 sistema sshd[29375]: Failed password for root from 185.237.15.141 port 38858 ssh2
+Feb 14 14:01:28 sistema sshd[29375]: Received disconnect from 185.237.15.141 port 38858:11: Bye Bye [preauth]
+Feb 14 14:01:28 sistema sshd[29375]: Disconnected from 185.237.15.141 port 38858 [preauth]
+Feb 14 14:01:36 sistema sshd[29377]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:01:38 sistema sshd[29377]: Failed password for root from 159.65.98.176 port 39880 ssh2
+Feb 14 14:01:38 sistema sshd[29377]: Received disconnect from 159.65.98.176 port 39880:11: Bye Bye [preauth]
+Feb 14 14:01:38 sistema sshd[29377]: Disconnected from 159.65.98.176 port 39880 [preauth]
+Feb 14 14:02:06 sistema sshd[29379]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:02:08 sistema sshd[29379]: Failed password for root from 46.101.123.135 port 48894 ssh2
+Feb 14 14:02:08 sistema sshd[29379]: Received disconnect from 46.101.123.135 port 48894:11: Bye Bye [preauth]
+Feb 14 14:02:08 sistema sshd[29379]: Disconnected from 46.101.123.135 port 48894 [preauth]
+Feb 14 14:02:26 sistema sshd[29386]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:02:28 sistema sshd[29386]: Failed password for root from 66.70.208.241 port 35678 ssh2
+Feb 14 14:02:28 sistema sshd[29386]: Received disconnect from 66.70.208.241 port 35678:11: Bye Bye [preauth]
+Feb 14 14:02:28 sistema sshd[29386]: Disconnected from 66.70.208.241 port 35678 [preauth]
+Feb 14 14:02:54 sistema sshd[29388]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:02:55 sistema sshd[29388]: Failed password for root from 185.237.15.141 port 49630 ssh2
+Feb 14 14:02:55 sistema sshd[29388]: Received disconnect from 185.237.15.141 port 49630:11: Bye Bye [preauth]
+Feb 14 14:02:55 sistema sshd[29388]: Disconnected from 185.237.15.141 port 49630 [preauth]
+Feb 14 14:03:01 sistema sshd[29395]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.89.172.88  user=root
+Feb 14 14:03:03 sistema sshd[29395]: Failed password for root from 159.89.172.88 port 33682 ssh2
+Feb 14 14:03:03 sistema sshd[29395]: Received disconnect from 159.89.172.88 port 33682:11: Bye Bye [preauth]
+Feb 14 14:03:03 sistema sshd[29395]: Disconnected from 159.89.172.88 port 33682 [preauth]
+Feb 14 14:03:08 sistema sshd[29399]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:03:09 sistema sshd[29397]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166  user=root
+Feb 14 14:03:11 sistema sshd[29399]: Failed password for root from 92.222.10.235 port 39980 ssh2
+Feb 14 14:03:11 sistema sshd[29399]: Received disconnect from 92.222.10.235 port 39980:11: Bye Bye [preauth]
+Feb 14 14:03:11 sistema sshd[29399]: Disconnected from 92.222.10.235 port 39980 [preauth]
+Feb 14 14:03:11 sistema sshd[29397]: Failed password for root from 203.128.242.166 port 39822 ssh2
+Feb 14 14:03:11 sistema sshd[29397]: Received disconnect from 203.128.242.166 port 39822:11: Bye Bye [preauth]
+Feb 14 14:03:11 sistema sshd[29397]: Disconnected from 203.128.242.166 port 39822 [preauth]
+Feb 14 14:03:12 sistema sshd[29401]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:03:14 sistema sshd[29401]: Failed password for root from 188.166.14.99 port 37156 ssh2
+Feb 14 14:03:14 sistema sshd[29401]: Received disconnect from 188.166.14.99 port 37156:11: Bye Bye [preauth]
+Feb 14 14:03:14 sistema sshd[29401]: Disconnected from 188.166.14.99 port 37156 [preauth]
+Feb 14 14:04:07 sistema sshd[29408]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:04:09 sistema sshd[29408]: Failed password for root from 66.70.208.241 port 51598 ssh2
+Feb 14 14:04:09 sistema sshd[29408]: Received disconnect from 66.70.208.241 port 51598:11: Bye Bye [preauth]
+Feb 14 14:04:09 sistema sshd[29408]: Disconnected from 66.70.208.241 port 51598 [preauth]
+Feb 14 14:04:27 sistema sshd[29415]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:04:28 sistema sshd[29417]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:04:30 sistema sshd[29422]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:04:30 sistema sshd[29415]: Failed password for root from 92.222.10.235 port 39422 ssh2
+Feb 14 14:04:30 sistema sshd[29415]: Received disconnect from 92.222.10.235 port 39422:11: Bye Bye [preauth]
+Feb 14 14:04:30 sistema sshd[29415]: Disconnected from 92.222.10.235 port 39422 [preauth]
+Feb 14 14:04:31 sistema sshd[29426]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:04:31 sistema sshd[29417]: Failed password for root from 159.65.98.176 port 54468 ssh2
+Feb 14 14:04:31 sistema sshd[29417]: Received disconnect from 159.65.98.176 port 54468:11: Bye Bye [preauth]
+Feb 14 14:04:31 sistema sshd[29417]: Disconnected from 159.65.98.176 port 54468 [preauth]
+Feb 14 14:04:31 sistema sshd[29422]: Failed password for root from 188.166.14.99 port 44824 ssh2
+Feb 14 14:04:32 sistema sshd[29422]: Received disconnect from 188.166.14.99 port 44824:11: Bye Bye [preauth]
+Feb 14 14:04:32 sistema sshd[29422]: Disconnected from 188.166.14.99 port 44824 [preauth]
+Feb 14 14:04:33 sistema sshd[29426]: Failed password for root from 197.5.145.81 port 32419 ssh2
+Feb 14 14:04:33 sistema sshd[29426]: Received disconnect from 197.5.145.81 port 32419:11: Bye Bye [preauth]
+Feb 14 14:04:33 sistema sshd[29426]: Disconnected from 197.5.145.81 port 32419 [preauth]
+Feb 14 14:05:59 sistema sshd[29436]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:06:01 sistema sshd[29436]: Failed password for root from 159.65.98.176 port 58680 ssh2
+Feb 14 14:06:10 sistema sshd[29443]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:06:12 sistema sshd[29443]: Failed password for root from 197.5.145.81 port 32420 ssh2
+Feb 14 14:06:12 sistema sshd[29443]: Received disconnect from 197.5.145.81 port 32420:11: Bye Bye [preauth]
+Feb 14 14:06:12 sistema sshd[29443]: Disconnected from 197.5.145.81 port 32420 [preauth]
+Feb 14 14:07:15 sistema sshd[29450]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.89.172.88  user=root
+Feb 14 14:07:17 sistema sshd[29450]: Failed password for root from 159.89.172.88 port 59242 ssh2
+Feb 14 14:07:17 sistema sshd[29450]: Received disconnect from 159.89.172.88 port 59242:11: Bye Bye [preauth]
+Feb 14 14:07:17 sistema sshd[29450]: Disconnected from 159.89.172.88 port 59242 [preauth]
+Feb 14 14:07:34 sistema sshd[29452]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.89.172.88  user=root
+Feb 14 14:07:36 sistema sshd[29452]: Failed password for root from 159.89.172.88 port 35136 ssh2
+Feb 14 14:09:01 sistema CRON[29459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 14:09:01 sistema CRON[29459]: pam_unix(cron:session): session closed for user root
+Feb 14 14:13:08 sistema sshd[29528]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:13:10 sistema sshd[29528]: Failed password for root from 46.101.123.135 port 36916 ssh2
+Feb 14 14:13:10 sistema sshd[29528]: Received disconnect from 46.101.123.135 port 36916:11: Bye Bye [preauth]
+Feb 14 14:13:10 sistema sshd[29528]: Disconnected from 46.101.123.135 port 36916 [preauth]
+Feb 14 14:13:46 sistema sshd[29535]: Invalid user proxy1 from 203.128.242.166 port 56269
+Feb 14 14:13:46 sistema sshd[29535]: input_userauth_request: invalid user proxy1 [preauth]
+Feb 14 14:13:46 sistema sshd[29535]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:13:46 sistema sshd[29535]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:13:48 sistema sshd[29535]: Failed password for invalid user proxy1 from 203.128.242.166 port 56269 ssh2
+Feb 14 14:13:48 sistema sshd[29535]: Received disconnect from 203.128.242.166 port 56269:11: Bye Bye [preauth]
+Feb 14 14:13:48 sistema sshd[29535]: Disconnected from 203.128.242.166 port 56269 [preauth]
+Feb 14 14:13:50 sistema sshd[29537]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:13:53 sistema sshd[29537]: Failed password for root from 185.237.15.141 port 34502 ssh2
+Feb 14 14:13:53 sistema sshd[29537]: Received disconnect from 185.237.15.141 port 34502:11: Bye Bye [preauth]
+Feb 14 14:13:53 sistema sshd[29537]: Disconnected from 185.237.15.141 port 34502 [preauth]
+Feb 14 14:14:12 sistema sshd[29544]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:14:14 sistema sshd[29544]: Failed password for root from 46.101.123.135 port 32894 ssh2
+Feb 14 14:14:15 sistema sshd[29544]: Received disconnect from 46.101.123.135 port 32894:11: Bye Bye [preauth]
+Feb 14 14:14:15 sistema sshd[29544]: Disconnected from 46.101.123.135 port 32894 [preauth]
+Feb 14 14:14:42 sistema sshd[29556]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:14:44 sistema sshd[29556]: Failed password for root from 188.166.14.99 port 58256 ssh2
+Feb 14 14:14:44 sistema sshd[29556]: Received disconnect from 188.166.14.99 port 58256:11: Bye Bye [preauth]
+Feb 14 14:14:44 sistema sshd[29556]: Disconnected from 188.166.14.99 port 58256 [preauth]
+Feb 14 14:15:19 sistema sshd[29558]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:15:21 sistema sshd[29558]: Failed password for root from 46.101.123.135 port 57100 ssh2
+Feb 14 14:15:21 sistema sshd[29558]: Received disconnect from 46.101.123.135 port 57100:11: Bye Bye [preauth]
+Feb 14 14:15:21 sistema sshd[29558]: Disconnected from 46.101.123.135 port 57100 [preauth]
+Feb 14 14:15:33 sistema sshd[29565]: Invalid user eko from 203.128.242.166 port 35481
+Feb 14 14:15:33 sistema sshd[29565]: input_userauth_request: invalid user eko [preauth]
+Feb 14 14:15:33 sistema sshd[29565]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:15:33 sistema sshd[29565]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:15:35 sistema sshd[29565]: Failed password for invalid user eko from 203.128.242.166 port 35481 ssh2
+Feb 14 14:15:45 sistema sshd[29572]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:15:47 sistema sshd[29574]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:15:48 sistema sshd[29572]: Failed password for root from 92.222.10.235 port 34354 ssh2
+Feb 14 14:15:48 sistema sshd[29572]: Received disconnect from 92.222.10.235 port 34354:11: Bye Bye [preauth]
+Feb 14 14:15:48 sistema sshd[29572]: Disconnected from 92.222.10.235 port 34354 [preauth]
+Feb 14 14:15:48 sistema sshd[29574]: Failed password for root from 185.237.15.141 port 56038 ssh2
+Feb 14 14:15:48 sistema sshd[29574]: Received disconnect from 185.237.15.141 port 56038:11: Bye Bye [preauth]
+Feb 14 14:15:48 sistema sshd[29574]: Disconnected from 185.237.15.141 port 56038 [preauth]
+Feb 14 14:15:59 sistema sshd[29576]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:16:01 sistema sshd[29576]: Failed password for root from 66.70.208.241 port 51372 ssh2
+Feb 14 14:16:01 sistema sshd[29576]: Received disconnect from 66.70.208.241 port 51372:11: Bye Bye [preauth]
+Feb 14 14:16:01 sistema sshd[29576]: Disconnected from 66.70.208.241 port 51372 [preauth]
+Feb 14 14:16:01 sistema sshd[29583]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:16:03 sistema sshd[29583]: Failed password for root from 188.166.14.99 port 43856 ssh2
+Feb 14 14:16:03 sistema sshd[29583]: Received disconnect from 188.166.14.99 port 43856:11: Bye Bye [preauth]
+Feb 14 14:16:03 sistema sshd[29583]: Disconnected from 188.166.14.99 port 43856 [preauth]
+Feb 14 14:16:17 sistema sshd[29590]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:16:19 sistema sshd[29590]: Failed password for root from 159.65.98.176 port 59944 ssh2
+Feb 14 14:16:19 sistema sshd[29590]: Received disconnect from 159.65.98.176 port 59944:11: Bye Bye [preauth]
+Feb 14 14:16:19 sistema sshd[29590]: Disconnected from 159.65.98.176 port 59944 [preauth]
+Feb 14 14:17:01 sistema CRON[29592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 14:17:01 sistema CRON[29592]: pam_unix(cron:session): session closed for user root
+Feb 14 14:17:03 sistema sshd[29595]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:17:05 sistema sshd[29595]: Failed password for root from 92.222.10.235 port 33790 ssh2
+Feb 14 14:17:05 sistema sshd[29595]: Received disconnect from 92.222.10.235 port 33790:11: Bye Bye [preauth]
+Feb 14 14:17:05 sistema sshd[29595]: Disconnected from 92.222.10.235 port 33790 [preauth]
+Feb 14 14:17:21 sistema sshd[29597]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:17:24 sistema sshd[29597]: Failed password for root from 188.166.14.99 port 36330 ssh2
+Feb 14 14:17:24 sistema sshd[29597]: Received disconnect from 188.166.14.99 port 36330:11: Bye Bye [preauth]
+Feb 14 14:17:24 sistema sshd[29597]: Disconnected from 188.166.14.99 port 36330 [preauth]
+Feb 14 14:17:43 sistema sshd[29609]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:17:46 sistema sshd[29609]: Failed password for root from 197.5.145.81 port 32428 ssh2
+Feb 14 14:17:46 sistema sshd[29609]: Received disconnect from 197.5.145.81 port 32428:11: Bye Bye [preauth]
+Feb 14 14:17:46 sistema sshd[29609]: Disconnected from 197.5.145.81 port 32428 [preauth]
+Feb 14 14:17:48 sistema sshd[29611]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:17:50 sistema sshd[29611]: Failed password for root from 185.237.15.141 port 38100 ssh2
+Feb 14 14:18:00 sistema sshd[29618]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:18:02 sistema sshd[29618]: Failed password for root from 66.70.208.241 port 54638 ssh2
+Feb 14 14:18:02 sistema sshd[29618]: Received disconnect from 66.70.208.241 port 54638:11: Bye Bye [preauth]
+Feb 14 14:18:02 sistema sshd[29618]: Disconnected from 66.70.208.241 port 54638 [preauth]
+Feb 14 14:18:13 sistema sshd[29620]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:18:15 sistema sshd[29620]: Failed password for root from 159.65.98.176 port 35926 ssh2
+Feb 14 14:18:15 sistema sshd[29620]: Received disconnect from 159.65.98.176 port 35926:11: Bye Bye [preauth]
+Feb 14 14:18:15 sistema sshd[29620]: Disconnected from 159.65.98.176 port 35926 [preauth]
+Feb 14 14:18:20 sistema sshd[29622]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:18:22 sistema sshd[29622]: Failed password for root from 92.222.10.235 port 33220 ssh2
+Feb 14 14:19:29 sistema sshd[29629]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:19:31 sistema sshd[29629]: Failed password for root from 197.5.145.81 port 32429 ssh2
+Feb 14 14:19:31 sistema sshd[29629]: Received disconnect from 197.5.145.81 port 32429:11: Bye Bye [preauth]
+Feb 14 14:19:31 sistema sshd[29629]: Disconnected from 197.5.145.81 port 32429 [preauth]
+Feb 14 14:19:44 sistema sshd[29631]: Invalid user antonio from 62.233.50.8 port 44709
+Feb 14 14:19:44 sistema sshd[29631]: input_userauth_request: invalid user antonio [preauth]
+Feb 14 14:19:44 sistema sshd[29631]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:19:44 sistema sshd[29631]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 14:19:46 sistema sshd[29631]: Failed password for invalid user antonio from 62.233.50.8 port 44709 ssh2
+Feb 14 14:19:46 sistema sshd[29631]: Received disconnect from 62.233.50.8 port 44709:11: Client disconnecting normally [preauth]
+Feb 14 14:19:46 sistema sshd[29631]: Disconnected from 62.233.50.8 port 44709 [preauth]
+Feb 14 14:20:02 sistema sshd[29633]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:20:04 sistema sshd[29633]: Failed password for root from 66.70.208.241 port 58962 ssh2
+Feb 14 14:20:04 sistema sshd[29633]: Received disconnect from 66.70.208.241 port 58962:11: Bye Bye [preauth]
+Feb 14 14:20:04 sistema sshd[29633]: Disconnected from 66.70.208.241 port 58962 [preauth]
+Feb 14 14:20:11 sistema sshd[29640]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:20:13 sistema sshd[29640]: Failed password for root from 159.65.98.176 port 40140 ssh2
+Feb 14 14:20:13 sistema sshd[29640]: Received disconnect from 159.65.98.176 port 40140:11: Bye Bye [preauth]
+Feb 14 14:20:13 sistema sshd[29640]: Disconnected from 159.65.98.176 port 40140 [preauth]
+Feb 14 14:21:07 sistema sshd[29647]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:21:08 sistema sshd[29647]: Failed password for root from 197.5.145.81 port 32430 ssh2
+Feb 14 14:21:09 sistema sshd[29647]: Received disconnect from 197.5.145.81 port 32430:11: Bye Bye [preauth]
+Feb 14 14:21:09 sistema sshd[29647]: Disconnected from 197.5.145.81 port 32430 [preauth]
+Feb 14 14:21:27 sistema sshd[29654]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:21:29 sistema sshd[29654]: Failed password for root from 162.243.61.162 port 52680 ssh2
+Feb 14 14:21:29 sistema sshd[29654]: Received disconnect from 162.243.61.162 port 52680:11: Bye Bye [preauth]
+Feb 14 14:21:29 sistema sshd[29654]: Disconnected from 162.243.61.162 port 52680 [preauth]
+Feb 14 14:22:26 sistema sshd[29656]: Invalid user Root from 179.60.147.157 port 50454
+Feb 14 14:22:26 sistema sshd[29656]: input_userauth_request: invalid user Root [preauth]
+Feb 14 14:22:26 sistema sshd[29656]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:22:26 sistema sshd[29656]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 14:22:29 sistema sshd[29656]: Failed password for invalid user Root from 179.60.147.157 port 50454 ssh2
+Feb 14 14:22:29 sistema sshd[29656]: Connection closed by 179.60.147.157 port 50454 [preauth]
+Feb 14 14:25:36 sistema sshd[29668]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:25:37 sistema sshd[29668]: Failed password for root from 46.101.123.135 port 49280 ssh2
+Feb 14 14:25:37 sistema sshd[29668]: Received disconnect from 46.101.123.135 port 49280:11: Bye Bye [preauth]
+Feb 14 14:25:37 sistema sshd[29668]: Disconnected from 46.101.123.135 port 49280 [preauth]
+Feb 14 14:26:18 sistema sshd[29670]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166  user=root
+Feb 14 14:26:19 sistema sshd[29672]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:26:20 sistema sshd[29670]: Failed password for root from 203.128.242.166 port 51926 ssh2
+Feb 14 14:26:20 sistema sshd[29670]: Received disconnect from 203.128.242.166 port 51926:11: Bye Bye [preauth]
+Feb 14 14:26:20 sistema sshd[29670]: Disconnected from 203.128.242.166 port 51926 [preauth]
+Feb 14 14:26:21 sistema sshd[29672]: Failed password for root from 162.243.61.162 port 48680 ssh2
+Feb 14 14:26:21 sistema sshd[29672]: Received disconnect from 162.243.61.162 port 48680:11: Bye Bye [preauth]
+Feb 14 14:26:21 sistema sshd[29672]: Disconnected from 162.243.61.162 port 48680 [preauth]
+Feb 14 14:26:42 sistema sshd[29674]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:26:44 sistema sshd[29674]: Failed password for root from 46.101.123.135 port 45268 ssh2
+Feb 14 14:26:44 sistema sshd[29674]: Received disconnect from 46.101.123.135 port 45268:11: Bye Bye [preauth]
+Feb 14 14:26:44 sistema sshd[29674]: Disconnected from 46.101.123.135 port 45268 [preauth]
+Feb 14 14:27:39 sistema sshd[29681]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:27:40 sistema sshd[29681]: Failed password for root from 188.166.14.99 port 37470 ssh2
+Feb 14 14:27:41 sistema sshd[29681]: Received disconnect from 188.166.14.99 port 37470:11: Bye Bye [preauth]
+Feb 14 14:27:41 sistema sshd[29681]: Disconnected from 188.166.14.99 port 37470 [preauth]
+Feb 14 14:27:48 sistema sshd[29683]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.101.123.135  user=root
+Feb 14 14:27:50 sistema sshd[29683]: Failed password for root from 46.101.123.135 port 41244 ssh2
+Feb 14 14:27:50 sistema sshd[29683]: Received disconnect from 46.101.123.135 port 41244:11: Bye Bye [preauth]
+Feb 14 14:27:50 sistema sshd[29683]: Disconnected from 46.101.123.135 port 41244 [preauth]
+Feb 14 14:27:55 sistema sshd[29695]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:27:58 sistema sshd[29695]: Failed password for root from 162.243.61.162 port 53636 ssh2
+Feb 14 14:27:58 sistema sshd[29695]: Received disconnect from 162.243.61.162 port 53636:11: Bye Bye [preauth]
+Feb 14 14:27:58 sistema sshd[29695]: Disconnected from 162.243.61.162 port 53636 [preauth]
+Feb 14 14:28:02 sistema sshd[29702]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166  user=root
+Feb 14 14:28:04 sistema sshd[29702]: Failed password for root from 203.128.242.166 port 59373 ssh2
+Feb 14 14:28:04 sistema sshd[29702]: Received disconnect from 203.128.242.166 port 59373:11: Bye Bye [preauth]
+Feb 14 14:28:04 sistema sshd[29702]: Disconnected from 203.128.242.166 port 59373 [preauth]
+Feb 14 14:28:24 sistema sshd[29709]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:28:26 sistema sshd[29709]: Failed password for root from 92.222.10.235 port 56988 ssh2
+Feb 14 14:28:26 sistema sshd[29709]: Received disconnect from 92.222.10.235 port 56988:11: Bye Bye [preauth]
+Feb 14 14:28:26 sistema sshd[29709]: Disconnected from 92.222.10.235 port 56988 [preauth]
+Feb 14 14:28:54 sistema sshd[29711]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:28:57 sistema sshd[29711]: Failed password for root from 188.166.14.99 port 51162 ssh2
+Feb 14 14:28:57 sistema sshd[29711]: Received disconnect from 188.166.14.99 port 51162:11: Bye Bye [preauth]
+Feb 14 14:28:57 sistema sshd[29711]: Disconnected from 188.166.14.99 port 51162 [preauth]
+Feb 14 14:29:35 sistema sshd[29713]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:29:38 sistema sshd[29713]: Failed password for root from 185.237.15.141 port 17532 ssh2
+Feb 14 14:29:38 sistema sshd[29713]: Received disconnect from 185.237.15.141 port 17532:11: Bye Bye [preauth]
+Feb 14 14:29:38 sistema sshd[29713]: Disconnected from 185.237.15.141 port 17532 [preauth]
+Feb 14 14:29:40 sistema sshd[29715]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:29:42 sistema sshd[29715]: Failed password for root from 92.222.10.235 port 56430 ssh2
+Feb 14 14:29:42 sistema sshd[29715]: Received disconnect from 92.222.10.235 port 56430:11: Bye Bye [preauth]
+Feb 14 14:29:42 sistema sshd[29715]: Disconnected from 92.222.10.235 port 56430 [preauth]
+Feb 14 14:29:53 sistema sshd[29717]: Invalid user server from 203.128.242.166 port 38585
+Feb 14 14:29:53 sistema sshd[29717]: input_userauth_request: invalid user server [preauth]
+Feb 14 14:29:53 sistema sshd[29717]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:29:53 sistema sshd[29717]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:29:55 sistema sshd[29717]: Failed password for invalid user server from 203.128.242.166 port 38585 ssh2
+Feb 14 14:29:56 sistema sshd[29717]: Received disconnect from 203.128.242.166 port 38585:11: Bye Bye [preauth]
+Feb 14 14:29:56 sistema sshd[29717]: Disconnected from 203.128.242.166 port 38585 [preauth]
+Feb 14 14:30:13 sistema sshd[29734]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=188.166.14.99  user=root
+Feb 14 14:30:16 sistema sshd[29734]: Failed password for root from 188.166.14.99 port 49044 ssh2
+Feb 14 14:30:55 sistema sshd[29741]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=92.222.10.235  user=root
+Feb 14 14:30:57 sistema sshd[29741]: Failed password for root from 92.222.10.235 port 55876 ssh2
+Feb 14 14:30:57 sistema sshd[29741]: Received disconnect from 92.222.10.235 port 55876:11: Bye Bye [preauth]
+Feb 14 14:30:57 sistema sshd[29741]: Disconnected from 92.222.10.235 port 55876 [preauth]
+Feb 14 14:31:17 sistema sshd[29753]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:31:18 sistema sshd[29753]: Failed password for root from 197.5.145.81 port 32437 ssh2
+Feb 14 14:31:18 sistema sshd[29753]: Received disconnect from 197.5.145.81 port 32437:11: Bye Bye [preauth]
+Feb 14 14:31:18 sistema sshd[29753]: Disconnected from 197.5.145.81 port 32437 [preauth]
+Feb 14 14:31:36 sistema sshd[29755]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:31:38 sistema sshd[29755]: Failed password for root from 185.237.15.141 port 62584 ssh2
+Feb 14 14:31:38 sistema sshd[29755]: Received disconnect from 185.237.15.141 port 62584:11: Bye Bye [preauth]
+Feb 14 14:31:38 sistema sshd[29755]: Disconnected from 185.237.15.141 port 62584 [preauth]
+Feb 14 14:31:59 sistema sshd[29757]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:32:01 sistema sshd[29757]: Failed password for root from 66.70.208.241 port 57464 ssh2
+Feb 14 14:32:01 sistema sshd[29757]: Received disconnect from 66.70.208.241 port 57464:11: Bye Bye [preauth]
+Feb 14 14:32:01 sistema sshd[29757]: Disconnected from 66.70.208.241 port 57464 [preauth]
+Feb 14 14:32:04 sistema sshd[29759]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:32:06 sistema sshd[29759]: Failed password for root from 159.65.98.176 port 37192 ssh2
+Feb 14 14:32:06 sistema sshd[29759]: Received disconnect from 159.65.98.176 port 37192:11: Bye Bye [preauth]
+Feb 14 14:32:06 sistema sshd[29759]: Disconnected from 159.65.98.176 port 37192 [preauth]
+Feb 14 14:32:53 sistema sshd[29761]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:32:55 sistema sshd[29761]: Failed password for root from 197.5.145.81 port 32438 ssh2
+Feb 14 14:32:55 sistema sshd[29761]: Received disconnect from 197.5.145.81 port 32438:11: Bye Bye [preauth]
+Feb 14 14:32:55 sistema sshd[29761]: Disconnected from 197.5.145.81 port 32438 [preauth]
+Feb 14 14:33:33 sistema sshd[29763]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:33:35 sistema sshd[29763]: Failed password for root from 185.237.15.141 port 63974 ssh2
+Feb 14 14:33:35 sistema sshd[29763]: Received disconnect from 185.237.15.141 port 63974:11: Bye Bye [preauth]
+Feb 14 14:33:35 sistema sshd[29763]: Disconnected from 185.237.15.141 port 63974 [preauth]
+Feb 14 14:33:57 sistema sshd[29770]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:33:58 sistema sshd[29772]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:33:59 sistema sshd[29770]: Failed password for root from 66.70.208.241 port 56900 ssh2
+Feb 14 14:33:59 sistema sshd[29770]: Received disconnect from 66.70.208.241 port 56900:11: Bye Bye [preauth]
+Feb 14 14:33:59 sistema sshd[29770]: Disconnected from 66.70.208.241 port 56900 [preauth]
+Feb 14 14:33:59 sistema sshd[29772]: Failed password for root from 159.65.98.176 port 41404 ssh2
+Feb 14 14:33:59 sistema sshd[29772]: Received disconnect from 159.65.98.176 port 41404:11: Bye Bye [preauth]
+Feb 14 14:33:59 sistema sshd[29772]: Disconnected from 159.65.98.176 port 41404 [preauth]
+Feb 14 14:34:30 sistema sshd[29774]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:34:32 sistema sshd[29774]: Failed password for root from 197.5.145.81 port 32439 ssh2
+Feb 14 14:34:32 sistema sshd[29774]: Received disconnect from 197.5.145.81 port 32439:11: Bye Bye [preauth]
+Feb 14 14:34:32 sistema sshd[29774]: Disconnected from 197.5.145.81 port 32439 [preauth]
+Feb 14 14:35:53 sistema sshd[29781]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:35:55 sistema sshd[29781]: Failed password for root from 159.65.98.176 port 45618 ssh2
+Feb 14 14:35:55 sistema sshd[29781]: Received disconnect from 159.65.98.176 port 45618:11: Bye Bye [preauth]
+Feb 14 14:35:55 sistema sshd[29781]: Disconnected from 159.65.98.176 port 45618 [preauth]
+Feb 14 14:35:57 sistema sshd[29788]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:35:59 sistema sshd[29788]: Failed password for root from 66.70.208.241 port 37786 ssh2
+Feb 14 14:39:01 sistema CRON[29805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 14:39:01 sistema CRON[29805]: pam_unix(cron:session): session closed for user root
+Feb 14 14:39:43 sistema sshd[29863]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8  user=root
+Feb 14 14:39:45 sistema sshd[29863]: Failed password for root from 62.233.50.8 port 46597 ssh2
+Feb 14 14:39:45 sistema sshd[29863]: Received disconnect from 62.233.50.8 port 46597:11: Client disconnecting normally [preauth]
+Feb 14 14:39:45 sistema sshd[29863]: Disconnected from 62.233.50.8 port 46597 [preauth]
+Feb 14 14:39:45 sistema sshd[29865]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:39:48 sistema sshd[29865]: Failed password for root from 162.243.61.162 port 60080 ssh2
+Feb 14 14:39:48 sistema sshd[29865]: Received disconnect from 162.243.61.162 port 60080:11: Bye Bye [preauth]
+Feb 14 14:39:48 sistema sshd[29865]: Disconnected from 162.243.61.162 port 60080 [preauth]
+Feb 14 14:39:50 sistema sshd[29867]: Invalid user Admin from 179.60.147.157 port 33900
+Feb 14 14:39:50 sistema sshd[29867]: input_userauth_request: invalid user Admin [preauth]
+Feb 14 14:39:50 sistema sshd[29867]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:39:50 sistema sshd[29867]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 14:39:52 sistema sshd[29867]: Failed password for invalid user Admin from 179.60.147.157 port 33900 ssh2
+Feb 14 14:39:52 sistema sshd[29867]: Connection closed by 179.60.147.157 port 33900 [preauth]
+Feb 14 14:40:32 sistema sshd[29879]: Invalid user vnc from 203.128.242.166 port 55023
+Feb 14 14:40:32 sistema sshd[29879]: input_userauth_request: invalid user vnc [preauth]
+Feb 14 14:40:32 sistema sshd[29879]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:40:32 sistema sshd[29879]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:40:35 sistema sshd[29879]: Failed password for invalid user vnc from 203.128.242.166 port 55023 ssh2
+Feb 14 14:40:35 sistema sshd[29879]: Received disconnect from 203.128.242.166 port 55023:11: Bye Bye [preauth]
+Feb 14 14:40:35 sistema sshd[29879]: Disconnected from 203.128.242.166 port 55023 [preauth]
+Feb 14 14:42:00 sistema sshd[29886]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:42:02 sistema sshd[29886]: Failed password for root from 162.243.61.162 port 36802 ssh2
+Feb 14 14:42:02 sistema sshd[29886]: Received disconnect from 162.243.61.162 port 36802:11: Bye Bye [preauth]
+Feb 14 14:42:02 sistema sshd[29886]: Disconnected from 162.243.61.162 port 36802 [preauth]
+Feb 14 14:42:19 sistema sshd[29888]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166  user=root
+Feb 14 14:42:21 sistema sshd[29888]: Failed password for root from 203.128.242.166 port 34237 ssh2
+Feb 14 14:42:22 sistema sshd[29888]: Received disconnect from 203.128.242.166 port 34237:11: Bye Bye [preauth]
+Feb 14 14:42:22 sistema sshd[29888]: Disconnected from 203.128.242.166 port 34237 [preauth]
+Feb 14 14:44:22 sistema sshd[29900]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:44:24 sistema sshd[29900]: Failed password for root from 162.243.61.162 port 41756 ssh2
+Feb 14 14:44:24 sistema sshd[29900]: Received disconnect from 162.243.61.162 port 41756:11: Bye Bye [preauth]
+Feb 14 14:44:24 sistema sshd[29900]: Disconnected from 162.243.61.162 port 41756 [preauth]
+Feb 14 14:45:22 sistema sshd[29912]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:45:23 sistema sshd[29912]: Failed password for root from 185.237.15.141 port 37192 ssh2
+Feb 14 14:45:24 sistema sshd[29912]: Received disconnect from 185.237.15.141 port 37192:11: Bye Bye [preauth]
+Feb 14 14:45:24 sistema sshd[29912]: Disconnected from 185.237.15.141 port 37192 [preauth]
+Feb 14 14:46:07 sistema sshd[29924]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:46:09 sistema sshd[29924]: Failed password for root from 197.5.145.81 port 32450 ssh2
+Feb 14 14:46:09 sistema sshd[29924]: Received disconnect from 197.5.145.81 port 32450:11: Bye Bye [preauth]
+Feb 14 14:46:09 sistema sshd[29924]: Disconnected from 197.5.145.81 port 32450 [preauth]
+Feb 14 14:47:20 sistema sshd[29926]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:47:22 sistema sshd[29926]: Failed password for root from 185.237.15.141 port 20254 ssh2
+Feb 14 14:47:22 sistema sshd[29926]: Received disconnect from 185.237.15.141 port 20254:11: Bye Bye [preauth]
+Feb 14 14:47:22 sistema sshd[29926]: Disconnected from 185.237.15.141 port 20254 [preauth]
+Feb 14 14:47:25 sistema sshd[29928]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:47:27 sistema sshd[29928]: Failed password for root from 159.65.98.176 port 42670 ssh2
+Feb 14 14:47:27 sistema sshd[29928]: Received disconnect from 159.65.98.176 port 42670:11: Bye Bye [preauth]
+Feb 14 14:47:27 sistema sshd[29928]: Disconnected from 159.65.98.176 port 42670 [preauth]
+Feb 14 14:47:45 sistema sshd[29930]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:47:47 sistema sshd[29930]: Failed password for root from 197.5.145.81 port 32451 ssh2
+Feb 14 14:47:47 sistema sshd[29930]: Received disconnect from 197.5.145.81 port 32451:11: Bye Bye [preauth]
+Feb 14 14:47:47 sistema sshd[29930]: Disconnected from 197.5.145.81 port 32451 [preauth]
+Feb 14 14:47:54 sistema sshd[29932]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:47:56 sistema sshd[29932]: Failed password for root from 66.70.208.241 port 39638 ssh2
+Feb 14 14:47:56 sistema sshd[29932]: Received disconnect from 66.70.208.241 port 39638:11: Bye Bye [preauth]
+Feb 14 14:47:56 sistema sshd[29932]: Disconnected from 66.70.208.241 port 39638 [preauth]
+Feb 14 14:49:18 sistema sshd[29934]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.237.15.141  user=root
+Feb 14 14:49:20 sistema sshd[29934]: Failed password for root from 185.237.15.141 port 50494 ssh2
+Feb 14 14:49:20 sistema sshd[29934]: Received disconnect from 185.237.15.141 port 50494:11: Bye Bye [preauth]
+Feb 14 14:49:20 sistema sshd[29934]: Disconnected from 185.237.15.141 port 50494 [preauth]
+Feb 14 14:49:22 sistema sshd[29939]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:49:25 sistema sshd[29939]: Failed password for root from 159.65.98.176 port 46886 ssh2
+Feb 14 14:49:25 sistema sshd[29939]: Received disconnect from 159.65.98.176 port 46886:11: Bye Bye [preauth]
+Feb 14 14:49:25 sistema sshd[29939]: Disconnected from 159.65.98.176 port 46886 [preauth]
+Feb 14 14:49:25 sistema sshd[29943]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=197.5.145.81  user=root
+Feb 14 14:49:27 sistema sshd[29943]: Failed password for root from 197.5.145.81 port 32452 ssh2
+Feb 14 14:49:54 sistema sshd[29950]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:49:56 sistema sshd[29950]: Failed password for root from 66.70.208.241 port 59904 ssh2
+Feb 14 14:49:56 sistema sshd[29950]: Received disconnect from 66.70.208.241 port 59904:11: Bye Bye [preauth]
+Feb 14 14:49:56 sistema sshd[29950]: Disconnected from 66.70.208.241 port 59904 [preauth]
+Feb 14 14:51:17 sistema sshd[29952]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=159.65.98.176  user=root
+Feb 14 14:51:18 sistema sshd[29952]: Failed password for root from 159.65.98.176 port 51100 ssh2
+Feb 14 14:51:18 sistema sshd[29952]: Received disconnect from 159.65.98.176 port 51100:11: Bye Bye [preauth]
+Feb 14 14:51:18 sistema sshd[29952]: Disconnected from 159.65.98.176 port 51100 [preauth]
+Feb 14 14:51:53 sistema sshd[29959]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=66.70.208.241  user=root
+Feb 14 14:51:54 sistema sshd[29959]: Failed password for root from 66.70.208.241 port 34740 ssh2
+Feb 14 14:51:54 sistema sshd[29959]: Received disconnect from 66.70.208.241 port 34740:11: Bye Bye [preauth]
+Feb 14 14:51:54 sistema sshd[29959]: Disconnected from 66.70.208.241 port 34740 [preauth]
+Feb 14 14:52:59 sistema sshd[29971]: Invalid user tara from 203.128.242.166 port 50676
+Feb 14 14:52:59 sistema sshd[29971]: input_userauth_request: invalid user tara [preauth]
+Feb 14 14:52:59 sistema sshd[29971]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:52:59 sistema sshd[29971]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.128.242.166
+Feb 14 14:53:01 sistema sshd[29971]: Failed password for invalid user tara from 203.128.242.166 port 50676 ssh2
+Feb 14 14:53:01 sistema sshd[29971]: Received disconnect from 203.128.242.166 port 50676:11: Bye Bye [preauth]
+Feb 14 14:53:01 sistema sshd[29971]: Disconnected from 203.128.242.166 port 50676 [preauth]
+Feb 14 14:56:21 sistema sshd[29978]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:56:24 sistema sshd[29978]: Failed password for root from 162.243.61.162 port 38294 ssh2
+Feb 14 14:56:24 sistema sshd[29978]: Received disconnect from 162.243.61.162 port 38294:11: Bye Bye [preauth]
+Feb 14 14:56:24 sistema sshd[29978]: Disconnected from 162.243.61.162 port 38294 [preauth]
+Feb 14 14:57:03 sistema sshd[29980]: Invalid user Guest from 179.60.147.157 port 38656
+Feb 14 14:57:03 sistema sshd[29980]: input_userauth_request: invalid user Guest [preauth]
+Feb 14 14:57:03 sistema sshd[29980]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:57:03 sistema sshd[29980]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 14:57:05 sistema sshd[29980]: Failed password for invalid user Guest from 179.60.147.157 port 38656 ssh2
+Feb 14 14:57:05 sistema sshd[29980]: Connection closed by 179.60.147.157 port 38656 [preauth]
+Feb 14 14:58:44 sistema sshd[29982]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 14:58:46 sistema sshd[29982]: Failed password for root from 162.243.61.162 port 43250 ssh2
+Feb 14 14:58:46 sistema sshd[29982]: Received disconnect from 162.243.61.162 port 43250:11: Bye Bye [preauth]
+Feb 14 14:58:46 sistema sshd[29982]: Disconnected from 162.243.61.162 port 43250 [preauth]
+Feb 14 14:59:09 sistema sshd[29984]: Invalid user test from 62.233.50.8 port 46352
+Feb 14 14:59:09 sistema sshd[29984]: input_userauth_request: invalid user test [preauth]
+Feb 14 14:59:09 sistema sshd[29984]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 14:59:09 sistema sshd[29984]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 14:59:10 sistema sshd[29984]: Failed password for invalid user test from 62.233.50.8 port 46352 ssh2
+Feb 14 14:59:11 sistema sshd[29984]: Received disconnect from 62.233.50.8 port 46352:11: Client disconnecting normally [preauth]
+Feb 14 14:59:11 sistema sshd[29984]: Disconnected from 62.233.50.8 port 46352 [preauth]
+Feb 14 15:01:09 sistema sshd[29996]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 15:01:10 sistema sshd[29996]: Failed password for root from 162.243.61.162 port 48204 ssh2
+Feb 14 15:01:10 sistema sshd[29996]: Received disconnect from 162.243.61.162 port 48204:11: Bye Bye [preauth]
+Feb 14 15:01:10 sistema sshd[29996]: Disconnected from 162.243.61.162 port 48204 [preauth]
+Feb 14 15:02:00 sistema sshd[30013]: Invalid user deploy from 62.171.188.18 port 40064
+Feb 14 15:02:00 sistema sshd[30013]: input_userauth_request: invalid user deploy [preauth]
+Feb 14 15:02:01 sistema sshd[30013]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:02:01 sistema sshd[30013]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.171.188.18
+Feb 14 15:02:03 sistema sshd[30013]: Failed password for invalid user deploy from 62.171.188.18 port 40064 ssh2
+Feb 14 15:02:03 sistema sshd[30013]: Received disconnect from 62.171.188.18 port 40064:11: Bye Bye [preauth]
+Feb 14 15:02:03 sistema sshd[30013]: Disconnected from 62.171.188.18 port 40064 [preauth]
+Feb 14 15:09:01 sistema CRON[30015]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 15:09:01 sistema CRON[30015]: pam_unix(cron:session): session closed for user root
+Feb 14 15:09:20 sistema sshd[30073]: Invalid user deploy from 62.171.188.18 port 43256
+Feb 14 15:09:20 sistema sshd[30073]: input_userauth_request: invalid user deploy [preauth]
+Feb 14 15:09:20 sistema sshd[30073]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:09:20 sistema sshd[30073]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.171.188.18
+Feb 14 15:09:22 sistema sshd[30073]: Failed password for invalid user deploy from 62.171.188.18 port 43256 ssh2
+Feb 14 15:09:22 sistema sshd[30073]: Received disconnect from 62.171.188.18 port 43256:11: Bye Bye [preauth]
+Feb 14 15:09:22 sistema sshd[30073]: Disconnected from 62.171.188.18 port 43256 [preauth]
+Feb 14 15:13:13 sistema sshd[30085]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 15:13:15 sistema sshd[30085]: Failed password for root from 162.243.61.162 port 44742 ssh2
+Feb 14 15:13:15 sistema sshd[30085]: Received disconnect from 162.243.61.162 port 44742:11: Bye Bye [preauth]
+Feb 14 15:13:15 sistema sshd[30085]: Disconnected from 162.243.61.162 port 44742 [preauth]
+Feb 14 15:14:14 sistema sshd[30087]: Invalid user Admin from 179.60.147.157 port 41168
+Feb 14 15:14:14 sistema sshd[30087]: input_userauth_request: invalid user Admin [preauth]
+Feb 14 15:14:14 sistema sshd[30087]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:14:14 sistema sshd[30087]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 15:14:16 sistema sshd[30087]: Failed password for invalid user Admin from 179.60.147.157 port 41168 ssh2
+Feb 14 15:14:17 sistema sshd[30087]: Connection closed by 179.60.147.157 port 41168 [preauth]
+Feb 14 15:15:40 sistema sshd[30089]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 15:15:42 sistema sshd[30089]: Failed password for root from 162.243.61.162 port 49698 ssh2
+Feb 14 15:15:42 sistema sshd[30089]: Received disconnect from 162.243.61.162 port 49698:11: Bye Bye [preauth]
+Feb 14 15:15:42 sistema sshd[30089]: Disconnected from 162.243.61.162 port 49698 [preauth]
+Feb 14 15:17:01 sistema CRON[30091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 15:17:01 sistema CRON[30091]: pam_unix(cron:session): session closed for user root
+Feb 14 15:18:01 sistema sshd[30094]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=162.243.61.162  user=root
+Feb 14 15:18:03 sistema sshd[30094]: Failed password for root from 162.243.61.162 port 54652 ssh2
+Feb 14 15:18:03 sistema sshd[30094]: Received disconnect from 162.243.61.162 port 54652:11: Bye Bye [preauth]
+Feb 14 15:18:03 sistema sshd[30094]: Disconnected from 162.243.61.162 port 54652 [preauth]
+Feb 14 15:18:38 sistema sshd[30101]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8  user=root
+Feb 14 15:18:40 sistema sshd[30101]: Failed password for root from 62.233.50.8 port 45816 ssh2
+Feb 14 15:18:40 sistema sshd[30101]: Received disconnect from 62.233.50.8 port 45816:11: Client disconnecting normally [preauth]
+Feb 14 15:18:40 sistema sshd[30101]: Disconnected from 62.233.50.8 port 45816 [preauth]
+Feb 14 15:23:36 sistema sshd[30108]: Invalid user deploy from 62.171.188.18 port 46494
+Feb 14 15:23:36 sistema sshd[30108]: input_userauth_request: invalid user deploy [preauth]
+Feb 14 15:23:36 sistema sshd[30108]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:23:36 sistema sshd[30108]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.171.188.18
+Feb 14 15:23:38 sistema sshd[30108]: Failed password for invalid user deploy from 62.171.188.18 port 46494 ssh2
+Feb 14 15:23:39 sistema sshd[30108]: Received disconnect from 62.171.188.18 port 46494:11: Bye Bye [preauth]
+Feb 14 15:23:39 sistema sshd[30108]: Disconnected from 62.171.188.18 port 46494 [preauth]
+Feb 14 15:31:20 sistema sshd[30161]: Invalid user Test from 179.60.147.157 port 23308
+Feb 14 15:31:20 sistema sshd[30161]: input_userauth_request: invalid user Test [preauth]
+Feb 14 15:31:20 sistema sshd[30161]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:31:20 sistema sshd[30161]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 15:31:23 sistema sshd[30161]: Failed password for invalid user Test from 179.60.147.157 port 23308 ssh2
+Feb 14 15:31:23 sistema sshd[30163]: Invalid user ttx from 62.171.188.18 port 48686
+Feb 14 15:31:23 sistema sshd[30163]: input_userauth_request: invalid user ttx [preauth]
+Feb 14 15:31:23 sistema sshd[30163]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:31:23 sistema sshd[30163]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.171.188.18
+Feb 14 15:31:23 sistema sshd[30161]: Connection closed by 179.60.147.157 port 23308 [preauth]
+Feb 14 15:31:24 sistema sshd[30163]: Failed password for invalid user ttx from 62.171.188.18 port 48686 ssh2
+Feb 14 15:31:25 sistema sshd[30163]: Received disconnect from 62.171.188.18 port 48686:11: Bye Bye [preauth]
+Feb 14 15:31:25 sistema sshd[30163]: Disconnected from 62.171.188.18 port 48686 [preauth]
+Feb 14 15:38:04 sistema sshd[30170]: Invalid user pi from 62.233.50.8 port 43785
+Feb 14 15:38:04 sistema sshd[30170]: input_userauth_request: invalid user pi [preauth]
+Feb 14 15:38:04 sistema sshd[30170]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:38:04 sistema sshd[30170]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 15:38:06 sistema sshd[30170]: Failed password for invalid user pi from 62.233.50.8 port 43785 ssh2
+Feb 14 15:38:06 sistema sshd[30170]: Received disconnect from 62.233.50.8 port 43785:11: Client disconnecting normally [preauth]
+Feb 14 15:38:06 sistema sshd[30170]: Disconnected from 62.233.50.8 port 43785 [preauth]
+Feb 14 15:39:01 sistema CRON[30172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 15:39:01 sistema CRON[30172]: pam_unix(cron:session): session closed for user root
+Feb 14 15:48:28 sistema sshd[30241]: Invalid user Support from 179.60.147.157 port 39344
+Feb 14 15:48:28 sistema sshd[30241]: input_userauth_request: invalid user Support [preauth]
+Feb 14 15:48:28 sistema sshd[30241]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:48:28 sistema sshd[30241]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 15:48:29 sistema sshd[30241]: Failed password for invalid user Support from 179.60.147.157 port 39344 ssh2
+Feb 14 15:48:30 sistema sshd[30241]: Connection closed by 179.60.147.157 port 39344 [preauth]
+Feb 14 15:57:20 sistema sshd[30243]: Invalid user sftptest from 62.233.50.8 port 42439
+Feb 14 15:57:20 sistema sshd[30243]: input_userauth_request: invalid user sftptest [preauth]
+Feb 14 15:57:20 sistema sshd[30243]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 15:57:20 sistema sshd[30243]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 15:57:22 sistema sshd[30243]: Failed password for invalid user sftptest from 62.233.50.8 port 42439 ssh2
+Feb 14 15:57:22 sistema sshd[30243]: Received disconnect from 62.233.50.8 port 42439:11: Client disconnecting normally [preauth]
+Feb 14 15:57:22 sistema sshd[30243]: Disconnected from 62.233.50.8 port 42439 [preauth]
+Feb 14 16:05:32 sistema sshd[30245]: Invalid user Default from 179.60.147.157 port 38942
+Feb 14 16:05:32 sistema sshd[30245]: input_userauth_request: invalid user Default [preauth]
+Feb 14 16:05:32 sistema sshd[30245]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 16:05:32 sistema sshd[30245]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 16:05:34 sistema sshd[30245]: Failed password for invalid user Default from 179.60.147.157 port 38942 ssh2
+Feb 14 16:05:34 sistema sshd[30245]: Connection closed by 179.60.147.157 port 38942 [preauth]
+Feb 14 16:09:01 sistema CRON[30247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 16:09:01 sistema CRON[30247]: pam_unix(cron:session): session closed for user root
+Feb 14 16:16:23 sistema sshd[30305]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8  user=root
+Feb 14 16:16:26 sistema sshd[30305]: Failed password for root from 62.233.50.8 port 39525 ssh2
+Feb 14 16:16:26 sistema sshd[30305]: Received disconnect from 62.233.50.8 port 39525:11: Client disconnecting normally [preauth]
+Feb 14 16:16:26 sistema sshd[30305]: Disconnected from 62.233.50.8 port 39525 [preauth]
+Feb 14 16:17:01 sistema CRON[30307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 16:17:01 sistema CRON[30307]: pam_unix(cron:session): session closed for user root
+Feb 14 16:22:30 sistema sshd[30310]: Invalid user User from 179.60.147.157 port 49026
+Feb 14 16:22:30 sistema sshd[30310]: input_userauth_request: invalid user User [preauth]
+Feb 14 16:22:30 sistema sshd[30310]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 16:22:30 sistema sshd[30310]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 16:22:32 sistema sshd[30310]: Failed password for invalid user User from 179.60.147.157 port 49026 ssh2
+Feb 14 16:22:32 sistema sshd[30310]: Connection closed by 179.60.147.157 port 49026 [preauth]
+Feb 14 16:36:12 sistema sshd[30312]: Invalid user admin from 62.233.50.8 port 40112
+Feb 14 16:36:12 sistema sshd[30312]: input_userauth_request: invalid user admin [preauth]
+Feb 14 16:36:12 sistema sshd[30312]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 16:36:12 sistema sshd[30312]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=62.233.50.8
+Feb 14 16:36:14 sistema sshd[30312]: Failed password for invalid user admin from 62.233.50.8 port 40112 ssh2
+Feb 14 16:36:14 sistema sshd[30312]: Received disconnect from 62.233.50.8 port 40112:11: Client disconnecting normally [preauth]
+Feb 14 16:36:14 sistema sshd[30312]: Disconnected from 62.233.50.8 port 40112 [preauth]
+Feb 14 16:39:01 sistema CRON[30314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 14 16:39:01 sistema CRON[30314]: pam_unix(cron:session): session closed for user root
+Feb 14 16:39:16 sistema sshd[30372]: Invalid user Debian from 179.60.147.157 port 65376
+Feb 14 16:39:16 sistema sshd[30372]: input_userauth_request: invalid user Debian [preauth]
+Feb 14 16:39:16 sistema sshd[30372]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 16:39:16 sistema sshd[30372]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 16:39:18 sistema sshd[30372]: Failed password for invalid user Debian from 179.60.147.157 port 65376 ssh2
+Feb 14 16:39:19 sistema sshd[30372]: Connection closed by 179.60.147.157 port 65376 [preauth]
+Feb 14 16:44:11 sistema sshd[30374]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.155.101.206  user=root
+Feb 14 16:44:13 sistema sshd[30374]: Failed password for root from 43.155.101.206 port 52200 ssh2
+Feb 14 16:44:13 sistema sshd[30374]: Received disconnect from 43.155.101.206 port 52200:11: Bye Bye [preauth]
+Feb 14 16:44:13 sistema sshd[30374]: Disconnected from 43.155.101.206 port 52200 [preauth]
+Feb 14 16:44:53 sistema sshd[30376]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=177.43.90.107  user=root
+Feb 14 16:44:54 sistema sshd[30376]: Failed password for root from 177.43.90.107 port 48116 ssh2
+Feb 14 16:44:54 sistema sshd[30376]: Received disconnect from 177.43.90.107 port 48116:11: Bye Bye [preauth]
+Feb 14 16:44:54 sistema sshd[30376]: Disconnected from 177.43.90.107 port 48116 [preauth]
+Feb 14 16:45:52 sistema sshd[30378]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=134.209.153.189  user=root
+Feb 14 16:45:54 sistema sshd[30378]: Failed password for root from 134.209.153.189 port 33750 ssh2
+Feb 14 16:45:54 sistema sshd[30378]: Received disconnect from 134.209.153.189 port 33750:11: Bye Bye [preauth]
+Feb 14 16:45:54 sistema sshd[30378]: Disconnected from 134.209.153.189 port 33750 [preauth]
+Feb 14 16:46:18 sistema sshd[30380]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=115.178.76.23  user=root
+Feb 14 16:46:20 sistema sshd[30380]: Failed password for root from 115.178.76.23 port 48088 ssh2
+Feb 14 16:46:20 sistema sshd[30380]: Received disconnect from 115.178.76.23 port 48088:11: Bye Bye [preauth]
+Feb 14 16:46:20 sistema sshd[30380]: Disconnected from 115.178.76.23 port 48088 [preauth]
+Feb 14 16:48:14 sistema sshd[30383]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=139.59.6.169  user=root
+Feb 14 16:48:16 sistema sshd[30383]: Failed password for root from 139.59.6.169 port 36984 ssh2
+Feb 14 16:48:17 sistema sshd[30383]: Received disconnect from 139.59.6.169 port 36984:11: Bye Bye [preauth]
+Feb 14 16:48:17 sistema sshd[30383]: Disconnected from 139.59.6.169 port 36984 [preauth]
+Feb 14 16:48:44 sistema sshd[30387]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=143.198.191.25  user=root
+Feb 14 16:48:44 sistema sshd[30385]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.155.101.206  user=root
+Feb 14 16:48:46 sistema sshd[30387]: Failed password for root from 143.198.191.25 port 38500 ssh2
+Feb 14 16:48:46 sistema sshd[30387]: Received disconnect from 143.198.191.25 port 38500:11: Bye Bye [preauth]
+Feb 14 16:48:46 sistema sshd[30387]: Disconnected from 143.198.191.25 port 38500 [preauth]
+Feb 14 16:48:47 sistema sshd[30385]: Failed password for root from 43.155.101.206 port 49818 ssh2
+Feb 14 16:48:47 sistema sshd[30385]: Received disconnect from 43.155.101.206 port 49818:11: Bye Bye [preauth]
+Feb 14 16:48:47 sistema sshd[30385]: Disconnected from 43.155.101.206 port 49818 [preauth]
+Feb 14 16:49:12 sistema sshd[30389]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=115.178.76.23  user=root
+Feb 14 16:49:14 sistema sshd[30389]: Failed password for root from 115.178.76.23 port 57274 ssh2
+Feb 14 16:49:14 sistema sshd[30389]: Received disconnect from 115.178.76.23 port 57274:11: Bye Bye [preauth]
+Feb 14 16:49:14 sistema sshd[30389]: Disconnected from 115.178.76.23 port 57274 [preauth]
+Feb 14 16:49:18 sistema sshd[30391]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=177.43.90.107  user=root
+Feb 14 16:49:20 sistema sshd[30391]: Failed password for root from 177.43.90.107 port 44105 ssh2
+Feb 14 16:49:20 sistema sshd[30391]: Received disconnect from 177.43.90.107 port 44105:11: Bye Bye [preauth]
+Feb 14 16:49:20 sistema sshd[30391]: Disconnected from 177.43.90.107 port 44105 [preauth]
+Feb 14 16:49:55 sistema sshd[30393]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=134.209.153.189  user=root
+Feb 14 16:49:57 sistema sshd[30393]: Failed password for root from 134.209.153.189 port 45676 ssh2
+Feb 14 16:49:57 sistema sshd[30393]: Received disconnect from 134.209.153.189 port 45676:11: Bye Bye [preauth]
+Feb 14 16:49:57 sistema sshd[30393]: Disconnected from 134.209.153.189 port 45676 [preauth]
+Feb 14 16:50:24 sistema sshd[30395]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.155.101.206  user=root
+Feb 14 16:50:25 sistema sshd[30397]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=139.59.6.169  user=root
+Feb 14 16:50:27 sistema sshd[30395]: Failed password for root from 43.155.101.206 port 54266 ssh2
+Feb 14 16:50:27 sistema sshd[30397]: Failed password for root from 139.59.6.169 port 39542 ssh2
+Feb 14 16:50:27 sistema sshd[30395]: Received disconnect from 43.155.101.206 port 54266:11: Bye Bye [preauth]
+Feb 14 16:50:27 sistema sshd[30395]: Disconnected from 43.155.101.206 port 54266 [preauth]
+Feb 14 16:50:27 sistema sshd[30397]: Received disconnect from 139.59.6.169 port 39542:11: Bye Bye [preauth]
+Feb 14 16:50:27 sistema sshd[30397]: Disconnected from 139.59.6.169 port 39542 [preauth]
+Feb 14 16:50:41 sistema sshd[30404]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=115.178.76.23  user=root
+Feb 14 16:50:43 sistema sshd[30404]: Failed password for root from 115.178.76.23 port 56668 ssh2
+Feb 14 16:50:43 sistema sshd[30404]: Received disconnect from 115.178.76.23 port 56668:11: Bye Bye [preauth]
+Feb 14 16:50:43 sistema sshd[30404]: Disconnected from 115.178.76.23 port 56668 [preauth]
+Feb 14 16:51:21 sistema sshd[30411]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=177.43.90.107  user=root
+Feb 14 16:51:23 sistema sshd[30411]: Failed password for root from 177.43.90.107 port 60435 ssh2
+Feb 14 16:51:24 sistema sshd[30411]: Received disconnect from 177.43.90.107 port 60435:11: Bye Bye [preauth]
+Feb 14 16:51:24 sistema sshd[30411]: Disconnected from 177.43.90.107 port 60435 [preauth]
+Feb 14 16:51:25 sistema sshd[30416]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=143.198.191.25  user=root
+Feb 14 16:51:27 sistema sshd[30416]: Failed password for root from 143.198.191.25 port 58988 ssh2
+Feb 14 16:51:27 sistema sshd[30416]: Received disconnect from 143.198.191.25 port 58988:11: Bye Bye [preauth]
+Feb 14 16:51:27 sistema sshd[30416]: Disconnected from 143.198.191.25 port 58988 [preauth]
+Feb 14 16:51:43 sistema sshd[30420]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=143.198.191.25  user=root
+Feb 14 16:51:45 sistema sshd[30420]: Failed password for root from 143.198.191.25 port 59742 ssh2
+Feb 14 16:51:45 sistema sshd[30420]: Received disconnect from 143.198.191.25 port 59742:11: Bye Bye [preauth]
+Feb 14 16:51:45 sistema sshd[30420]: Disconnected from 143.198.191.25 port 59742 [preauth]
+Feb 14 16:51:45 sistema sshd[30422]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=134.209.153.189  user=root
+Feb 14 16:51:47 sistema sshd[30422]: Failed password for root from 134.209.153.189 port 45376 ssh2
+Feb 14 16:51:48 sistema sshd[30422]: Received disconnect from 134.209.153.189 port 45376:11: Bye Bye [preauth]
+Feb 14 16:51:48 sistema sshd[30422]: Disconnected from 134.209.153.189 port 45376 [preauth]
+Feb 14 16:52:11 sistema sshd[30434]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=139.59.6.169  user=root
+Feb 14 16:52:12 sistema sshd[30434]: Failed password for root from 139.59.6.169 port 39498 ssh2
+Feb 14 16:52:13 sistema sshd[30434]: Received disconnect from 139.59.6.169 port 39498:11: Bye Bye [preauth]
+Feb 14 16:52:13 sistema sshd[30434]: Disconnected from 139.59.6.169 port 39498 [preauth]
+Feb 14 16:52:58 sistema sshd[30441]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=122.199.152.76  user=root
+Feb 14 16:53:00 sistema sshd[30441]: Failed password for root from 122.199.152.76 port 19080 ssh2
+Feb 14 16:53:00 sistema sshd[30441]: Received disconnect from 122.199.152.76 port 19080:11: Bye Bye [preauth]
+Feb 14 16:53:00 sistema sshd[30441]: Disconnected from 122.199.152.76 port 19080 [preauth]
+Feb 14 16:53:38 sistema sshd[30443]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.152.219.47  user=root
+Feb 14 16:53:40 sistema sshd[30443]: Failed password for root from 43.152.219.47 port 55376 ssh2
+Feb 14 16:53:40 sistema sshd[30443]: Received disconnect from 43.152.219.47 port 55376:11: Bye Bye [preauth]
+Feb 14 16:53:40 sistema sshd[30443]: Disconnected from 43.152.219.47 port 55376 [preauth]
+Feb 14 16:54:38 sistema sshd[30445]: Connection closed by 36.158.216.69 port 34482 [preauth]
+Feb 14 16:54:51 sistema sshd[30447]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=122.199.152.76  user=root
+Feb 14 16:54:53 sistema sshd[30447]: Failed password for root from 122.199.152.76 port 24192 ssh2
+Feb 14 16:54:53 sistema sshd[30447]: Received disconnect from 122.199.152.76 port 24192:11: Bye Bye [preauth]
+Feb 14 16:54:53 sistema sshd[30447]: Disconnected from 122.199.152.76 port 24192 [preauth]
+Feb 14 16:55:16 sistema sshd[30449]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=122.199.152.76  user=root
+Feb 14 16:55:18 sistema sshd[30449]: Failed password for root from 122.199.152.76 port 26165 ssh2
+Feb 14 16:55:51 sistema sshd[30456]: Accepted password for root from 200.17.101.211 port 50787 ssh2
+Feb 14 16:55:51 sistema sshd[30456]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Feb 14 16:56:00 sistema sshd[30466]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.152.219.47  user=root
+Feb 14 16:56:00 sistema sshd[30468]: Invalid user Root from 179.60.147.157 port 34884
+Feb 14 16:56:00 sistema sshd[30468]: input_userauth_request: invalid user Root [preauth]
+Feb 14 16:56:00 sistema sshd[30468]: pam_unix(sshd:auth): check pass; user unknown
+Feb 14 16:56:00 sistema sshd[30468]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=179.60.147.157
+Feb 14 16:56:02 sistema sshd[30466]: Failed password for root from 43.152.219.47 port 39844 ssh2
+Feb 14 16:56:02 sistema sshd[30468]: Failed password for invalid user Root from 179.60.147.157 port 34884 ssh2
+Feb 14 16:56:02 sistema sshd[30468]: Connection closed by 179.60.147.157 port 34884 [preauth]
+Feb 14 16:56:02 sistema sshd[30466]: Received disconnect from 43.152.219.47 port 39844:11: Bye Bye [preauth]
+Feb 14 16:56:02 sistema sshd[30466]: Disconnected from 43.152.219.47 port 39844 [preauth]
+Feb 14 16:56:24 sistema sshd[30471]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=43.152.219.47  user=root
+Feb 14 16:56:25 sistema sshd[30471]: Failed password for root from 43.152.219.47 port 43972 ssh2
+Feb 14 16:56:26 sistema sshd[30471]: Received disconnect from 43.152.219.47 port 43972:11: Bye Bye [preauth]
+Feb 14 16:56:26 sistema sshd[30471]: Disconnected from 43.152.219.47 port 43972 [preauth]
